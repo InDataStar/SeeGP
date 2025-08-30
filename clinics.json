@@ -1,0 +1,412 @@
+[
+  {
+    "url": "/clinics/browns-road/",
+    "name": "Browns Road GP & Urgent Care",
+    "address": "235 Browns Road, Manurewa",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 264 1640",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=235+Browns+Road%2c+Manurewa",
+    "busy": 9
+  },
+  {
+    "url": "/clinics/dawson-road/",
+    "name": "Dawson Road GP & Urgent Care",
+    "address": "124 Dawson Road, Flat Bush, South Auckland",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 274 3468",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=124+Dawson+Road%2c+Flat+Bush%2c+South+Auckland",
+    "busy": 6
+  },
+  {
+    "url": "/clinics/franklin-urgent-care-2/",
+    "name": "Franklin Urgent Care",
+    "address": "12 Glasgow Road, Pukekohe 2120",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 238 6610",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=12+Glasgow+Road%2c+Pukekohe+2120",
+    "busy": 1
+  },
+  {
+    "url": "/clinics/glen-innes/",
+    "name": "Glen Innes GP & Urgent Care",
+    "address": "5 Mayfair Place, Glen Innes",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 528 9054",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=5+Mayfair+Place%2c+Glen+Innes",
+    "busy": 7
+  },
+  {
+    "url": "/clinics/hillpark/",
+    "name": "Hillpark GP",
+    "address": "32 Dennis Avenue, Hillpark, Auckland 2102",
+    "open_status": "Closed",
+    "closing_time": "Reopen Sun 31 Aug 8:00am",
+    "phone": "09 267 8066",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=32+Dennis+Avenue%2c+Hillpark%2c+Auckland+2102",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/lynnmall-medical-centre/",
+    "name": "LynnMall Medical Centre GP",
+    "address": "3058 Great North Road, New Lynn, Auckland 0600",
+    "open_status": "Open",
+    "closing_time": "Closes at 1:00pm",
+    "phone": null,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3058+Great+North+Road%2c+New+Lynn%2c+Auckland+0600",
+    "busy": 1
+  },
+  {
+    "url": "/clinics/mangere-town-centre/",
+    "name": "Mangere Town Centre GP & Urgent Care",
+    "address": "10 Waddon Place, Mangere",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 275 7954",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=10+Waddon+Place%2c+Mangere",
+    "busy": 9
+  },
+  {
+    "url": "/clinics/mt-roskill-gp-uc/",
+    "name": "Mt Roskill GP & Urgent Care",
+    "address": "445 Richardson Road, Mt Roskill",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 627 8552",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=445+Richardson+Road%2c+Mt+Roskill",
+    "busy": 3
+  },
+  {
+    "url": "/clinics/otara-gp-uc/",
+    "name": "Otara GP & Urgent Care",
+    "address": "3 Watford Street, Otara",
+    "open_status": "Open",
+    "closing_time": "Closes at 11:00pm",
+    "phone": "09 274 3414",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3+Watford+Street%2c+Otara",
+    "busy": 7
+  },
+  {
+    "url": "/clinics/ascot-24-7-uc-1/",
+    "name": "White Cross Ascot 24/7 Urgent Care",
+    "address": "90 Green Lane East, Remuera, Auckland 1051",
+    "open_status": "Open",
+    "closing_time": "Open 24 hours",
+    "phone": "09 520 9555",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=90+Green+Lane+East%2c+Remuera%2c+Auckland+1051",
+    "busy": 6
+  },
+  {
+    "url": "/clinics/glenfield-gp-uc/",
+    "name": "White Cross Glenfield GP & Urgent Care",
+    "address": "436-440 Glenfield Road, Glenfield",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 444 4244 ext 3",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=436-440+Glenfield+Road%2c+Glenfield",
+    "busy": 1
+  },
+  {
+    "url": "/clinics/henderson-24-7-uc-1/",
+    "name": "White Cross Henderson 24/7 Urgent Care",
+    "address": "131 Lincoln Road, Henderson, Auckland 0610",
+    "open_status": "Open",
+    "closing_time": "Open 24 hours",
+    "phone": "09 836 3336",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=131+Lincoln+Road%2c+Henderson%2c+Auckland+0610",
+    "busy": 2
+  },
+  {
+    "url": "/clinics/lunn-ave-gp-uc/",
+    "name": "White Cross Lunn Ave GP & Urgent Care",
+    "address": "110 Lunn Avenue, Remuera, Auckland 1072",
+    "open_status": "Open",
+    "closing_time": "Closing early at 6:00pm. Reopen Sat 30 Aug 8:00pm",
+    "phone": "09 570 8899",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=110+Lunn+Avenue%2c+Remuera%2c+Auckland+1072",
+    "busy": 8
+  },
+  {
+    "url": "/clinics/new-lynn-gp-uc-1/",
+    "name": "White Cross New Lynn GP & Urgent Care",
+    "address": "2144-2146 Great North Road, New Lynn, Auckland 0600",
+    "open_status": "Closed",
+    "closing_time": "Reopen Sun 31 Aug 8:00am",
+    "phone": "09 828 8912",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=2144-2146+Great+North+Road%2c+New+Lynn%2c+Auckland+0600",
+    "busy": 3
+  },
+  {
+    "url": "/clinics/otahuhu-uc/",
+    "name": "White Cross \u014ct\u0101huhu Urgent Care",
+    "address": "15\u201323 Station Road, Otahuhu (ground level)",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 276 3000",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=15%e2%80%9323+Station+Road%2c+Otahuhu+(ground+level)",
+    "busy": 8
+  },
+  {
+    "url": "/clinics/st-lukes-uc-1/",
+    "name": "White Cross St Lukes Urgent Care",
+    "address": "52 Saint Lukes Road, St Lukes, Auckland 1025",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 815 3111",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=52+Saint+Lukes+Road%2c+St+Lukes%2c+Auckland+1025",
+    "busy": 6
+  },
+  {
+    "url": "/clinics/whangarei-uc-1/",
+    "name": "White Cross Whang\u0101rei Urgent Care",
+    "address": "32 Reyburn Street, Whangarei",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": null,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=32+Reyburn+Street%2c+Whangarei",
+    "busy": 9
+  },
+  {
+    "url": "/clinics/avondale-medical-centre/",
+    "name": "Avondale GP",
+    "address": "256 Rosebank Road, Avondale, 1026",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 828 8453",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=256+Rosebank+Road%2c+Avondale%2c+1026",
+    "busy": null
+  },
+  {
+    "url": "/clinics/botany-south/",
+    "name": "Botany South GP",
+    "address": "455 East Tamaki Road, East Tamaki, Auckland 2013",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 7823",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=455+East+Tamaki+Road%2c+East+Tamaki%2c+Auckland+2013",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/chapel-park/",
+    "name": "Chapel Park GP",
+    "address": "160 Chapel Road, Chapel Park",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 271 2670",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=160+Chapel+Road%2c+Chapel+Park",
+    "busy": null
+  },
+  {
+    "url": "/clinics/city-doctors-1/",
+    "name": "City Doctors GP & Urgent Care",
+    "address": "22 Victoria Avenue,\u00a0Palmerston North",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "06 355 3300",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=22+Victoria+Avenue%2c%c2%a0Palmerston+North",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/dannemora/",
+    "name": "Dannemora GP",
+    "address": "1\u20133 Redcastle Drive, Dannemora",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 272 4163",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=1%e2%80%933+Redcastle+Drive%2c+Dannemora",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/east-tamaki/",
+    "name": "East Tamaki GP",
+    "address": "275 East Tamaki Road, East Tamaki",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 9264",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=275+East+Tamaki+Road%2c+East+Tamaki",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/glendene-medical-centre/",
+    "name": "Glendene GP",
+    "address": "4343\u20134349 Great North Road, Glendene",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 822 5148",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=4343%e2%80%934349+Great+North+Road%2c+Glendene",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/kolmar-road/",
+    "name": "Kolmar Road GP",
+    "address": "133 Kolmar Road, Papatoetoe",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 265 4945",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=133+Kolmar+Road%2c+Papatoetoe",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/leabank-wellness-hub/",
+    "name": "Leabank Wellness Hub",
+    "address": "210 Great South Road, Manurewa, Auckland 2102",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 266 4477",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=210+Great+South+Road%2c+Manurewa%2c+Auckland+2102",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/lincoln-road-medical-centre/",
+    "name": "Lincoln Road GP",
+    "address": "131 Lincoln Road, Henderson",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 837 2056",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=131+Lincoln+Road%2c+Henderson",
+    "busy": null
+  },
+  {
+    "url": "/clinics/wai-health/",
+    "name": "Local Doctors Wai Health - GP",
+    "address": "8 Pioneer Street, Henderson, Auckland 0612",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 839 0280",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=8+Pioneer+Street%2c+Henderson%2c+Auckland+0612",
+    "busy": null
+  },
+  {
+    "url": "/clinics/mangere-bridge/",
+    "name": "Mangere Bridge GP",
+    "address": "41 Coronation Road, Mangere Bridge",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 254 4290",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=41+Coronation+Road%2c+Mangere+Bridge",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/manurewa-healthcare/",
+    "name": "Manurewa Healthcare GP",
+    "address": "210 Great South Road, Manurewa, Auckland 2102",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": null,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=210+Great+South+Road%2c+Manurewa%2c+Auckland+2102",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/massey-road/",
+    "name": "Massey Road GP",
+    "address": "7B/359 Massey Road, Mangere East",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 265 4955",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=7B%2f359+Massey+Road%2c+Mangere+East",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/otahuhu-gp/",
+    "name": "\u014ct\u0101huhu GP",
+    "address": "15\u201323 Station Road, Otahuhu, 1062",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 276 3000",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=15%e2%80%9323+Station+Road%2c+Otahuhu%2c+1062",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/otara-mall-gp-clinic/",
+    "name": "Otara Mall GP",
+    "address": "120 East Tamaki Road, Otara Mall",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 9354",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=120+East+Tamaki+Road%2c+Otara+Mall",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/pukekohe-family-doctors/",
+    "name": "Pukekohe Family Doctors GP",
+    "address": "12 Glasgow Road, Pukekohe, 2120, Auckland",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 238 6696",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=12+Glasgow+Road%2c+Pukekohe%2c+2120%2c+Auckland",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/ranui/",
+    "name": "Ranui GP",
+    "address": "421 Swanson Road, Ranui \n(Carpark entry from the corner of Armada Drive)",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 833 6033",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=421+Swanson+Road%2c+Ranui+%0a(Carpark+entry+from+the+corner+of+Armada+Drive)",
+    "busy": null
+  },
+  {
+    "url": "/clinics/sandringham/",
+    "name": "Sandringham GP",
+    "address": "546 Sandringham Road, Sandringham",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 849 2111",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=546+Sandringham+Road%2c+Sandringham",
+    "busy": null
+  },
+  {
+    "url": "/clinics/seddon-medical-centre/",
+    "name": "Seddon Medical Centre GP",
+    "address": "13A Hall St, Pukekohe, Auckland 2120",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 237 0055",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=13A+Hall+St%2c+Pukekohe%2c+Auckland+2120",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/stoddard-road/",
+    "name": "Stoddard Road GP",
+    "address": "20 Stoddard Road, Mt Roskill",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 815 0033",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=20+Stoddard+Road%2c+Mt+Roskill",
+    "busy": null
+  },
+  {
+    "url": "/clinics/sylvia-park/",
+    "name": "Sylvia Park GP",
+    "address": "3 Te Kehu Way, Sylvia Park\nMt Wellington, 1060",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 573 1265",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3+Te+Kehu+Way%2c+Sylvia+Park%0aMt+Wellington%2c+1060",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/takanini/",
+    "name": "Takanini GP",
+    "address": "30 Walters Road, Takanini",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 7823",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=30+Walters+Road%2c+Takanini",
+    "busy": 0
+  },
+  {
+    "url": "/clinics/northmed-gp/",
+    "name": "White Cross Northmed GP",
+    "address": "3 Akoranga Drive, Northcote",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 486 3248",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3+Akoranga+Drive%2c+Northcote",
+    "busy": null
+  }
+]

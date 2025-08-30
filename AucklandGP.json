@@ -1,0 +1,3096 @@
+[
+ {
+   "name": "109 Doctors",
+   "url": "/doctors/gp/109-doctors/",
+   "address": "109 Queen Street, Auckland Central, Auckland",
+   "lat": -36.8462319,
+   "lng": 174.7659345
+ },
+ {
+   "name": "168 ○ Medical Centre",
+   "url": "/doctors/gp/168-medical-centre/",
+   "address": "170 Sandringham Road, Sandringham, Auckland",
+   "lat": -36.8779918,
+   "lng": 174.7410221
+ },
+ {
+   "name": "Airport Doctors",
+   "url": "/doctors/gp/airport-doctors/",
+   "address": "Airport Doctors",
+   "lat": -36.9962043,
+   "lng": 174.7881753
+ },
+ {
+   "name": "Albany Basin Accident and Medical",
+   "url": "/doctors/gp/albany-basin-accident-and-medical/",
+   "address": "Albany Basin Accident and Medical",
+   "lat": -36.75440023,
+   "lng": 174.7100294
+ },
+ {
+   "name": "Albany Family Medical Centre",
+   "url": "/doctors/gp/albany-family-medical-centre/",
+   "address": "368 Albany Highway, Albany, Auckland",
+   "lat": -36.743011,
+   "lng": 174.692466
+ },
+ {
+   "name": "Alberton Medical Practice",
+   "url": "/doctors/gp/alberton-medical-practice/",
+   "address": "230 Mount Albert Road, Sandringham, Auckland",
+   "lat": -36.895866,
+   "lng": 174.7318769
+ },
+ {
+   "name": "All Care Family Medical Centre - Northcote",
+   "url": "/doctors/gp/all-care-family-medical-centre-northcote/",
+   "address": "52 Pearn Crescent, Northcote, Auckland",
+   "lat": -36.8007331,
+   "lng": 174.7462048
+ },
+ {
+   "name": "All Care Family Medical Centre - Northcote",
+   "url": "/doctors/gp/all-care-family-medical-centre-northcote/",
+   "address": "52 Pearn Crescent, Northcote, Auckland",
+   "lat": -36.8007331,
+   "lng": 174.7462048
+ },
+ {
+   "name": "All Care Family Medical Centre - Ponsonby",
+   "url": "/doctors/gp/all-care-family-medical-centre-ponsonby-1/",
+   "address": "All Care Family Medical Centre - Ponsonby",
+   "lat": -36.8517649,
+   "lng": 174.7452287
+ },
+ {
+   "name": "Anne Street Medical Centre",
+   "url": "/doctors/gp/anne-street-medical-centre/",
+   "address": "29 Anne Street, Devonport, Auckland",
+   "lat": -36.8303616,
+   "lng": 174.7954899
+ },
+ {
+   "name": "Aotea Health",
+   "url": "/doctors/gp/aotea-health/",
+   "address": "80 Hector Sanderson Rd Great Barrier Island Auckland 0991",
+   "lat": -36.2437327,
+   "lng": 175.4628023
+ },
+ {
+   "name": "Apollo Medical",
+   "url": "/doctors/gp/apollo-medical/",
+   "address": "119 Apollo Drive, Rosedale, Auckland",
+   "lat": -36.735662,
+   "lng": 174.727407
+ },
+ {
+   "name": "Archers Medical Centre",
+   "url": "/doctors/gp/archers-medical-centre/",
+   "address": "130 Archers Road, Glenfield, Auckland",
+   "lat": -36.7846042,
+   "lng": 174.7340379
+ },
+ {
+   "name": "Archers Medical Centre",
+   "url": "/doctors/gp/archers-medical-centre/",
+   "address": "130 Archers Road, Glenfield, Auckland",
+   "lat": -36.7846042,
+   "lng": 174.7340379
+ },
+ {
+   "name": "Auckland Central Medical & Health Centre",
+   "url": "/doctors/gp/auckland-central-medical-health-centre/",
+   "address": "28 College Hill, Freemans Bay, Auckland",
+   "lat": -36.8488058,
+   "lng": 174.7490575
+ },
+ {
+   "name": "Auckland City Doctors",
+   "url": "/doctors/gp/auckland-city-doctors/",
+   "address": "415 Queen Street, Auckland Central, Auckland",
+   "lat": -36.8570275,
+   "lng": 174.7615813
+ },
+ {
+   "name": "Auckland Family Medical Centre",
+   "url": "/doctors/gp/auckland-family-medical-centre/",
+   "address": "94 Remuera Road, Remuera, Auckland",
+   "lat": -36.8729204,
+   "lng": 174.7815174
+ },
+ {
+   "name": "Auckland Integrative Medical Centre",
+   "url": "/doctors/gp/auckland-integrative-medical-centre/",
+   "address": "820 Mount Eden Road, Mount Eden, Auckland",
+   "lat": -36.898148,
+   "lng": 174.7577248
+ },
+ {
+   "name": "Auckland Travel Clinic",
+   "url": "/doctors/gp/auckland-travel-clinic/",
+   "address": "17 Emily Place, Auckland Central, Auckland",
+   "lat": -36.8460912,
+   "lng": 174.7706206
+ },
+ {
+   "name": "AUT Health/Medical Centre",
+   "url": "/doctors/gp/aut-health-medical-centre/",
+   "address": "640 Great South Road, Manukau, Auckland, 2104",
+   "lat": -36.9851318,
+   "lng": 174.8779043
+ },
+ {
+   "name": "AUT Health/Medical Centre",
+   "url": "/doctors/gp/aut-health-medical-centre/",
+   "address": "55 Wellesley Street East, Auckland",
+   "lat": -36.8532321,
+   "lng": 174.7651298
+ },
+ {
+   "name": "AUT Health/Medical Centre",
+   "url": "/doctors/gp/aut-health-medical-centre/",
+   "address": "90 Akoranga Drive, Northcote, Auckland",
+   "lat": -36.7986606,
+   "lng": 174.7553909
+ },
+ {
+   "name": "Avondale Family Doctor",
+   "url": "/doctors/gp/avondale-family-doctor/",
+   "address": "63 Rosebank Road, Avondale, Auckland",
+   "lat": -36.8943755,
+   "lng": 174.6970595
+ },
+ {
+   "name": "Avondale Family Health Centre",
+   "url": "/doctors/gp/avondale-family-health-centre/",
+   "address": "1784 Great North Road, Avondale",
+   "lat": -36.891718,
+   "lng": 174.6962566
+ },
+ {
+   "name": "Avondale Health Centre",
+   "url": "/doctors/gp/avondale-health-centre/",
+   "address": "39 Layard Street, Avondale, Auckland",
+   "lat": -36.8981419,
+   "lng": 174.698908
+ },
+ {
+   "name": "Avondale Medical Centre",
+   "url": "/doctors/gp/avondale-medical-centre/",
+   "address": "256 Rosebank Road, Avondale, Auckland",
+   "lat": -36.8857956,
+   "lng": 174.6835997
+ },
+ {
+   "name": "Bader Drive Healthcare",
+   "url": "/doctors/gp/bader-drive-healthcare/",
+   "address": "7 Hill Road, Manurewa, Auckland, 2102",
+   "lat": -37.0204997,
+   "lng": 174.894911
+ },
+ {
+   "name": "Bader Drive Healthcare",
+   "url": "/doctors/gp/bader-drive-healthcare/",
+   "address": "93 Bader Drive, Mangere Town Centre, 2022",
+   "lat": -36.9696081,
+   "lng": 174.7966892
+ },
+ {
+   "name": "Bakerfield Medical and Urgent Care",
+   "url": "/doctors/gp/bakerfield-medical-and-urgent-care/",
+   "address": "16A Bakerfield Place, Manukau, Auckland",
+   "lat": -36.9888735,
+   "lng": 174.8854859
+ },
+ {
+   "name": "Balmoral Doctors",
+   "url": "/doctors/gp/balmoral-doctors/",
+   "address": "502 Dominion Road, Mount Eden, Auckland",
+   "lat": -36.8844868,
+   "lng": 174.7486438
+ },
+ {
+   "name": "Bayside Medical Practice",
+   "url": "/doctors/gp/bayside-medical-practice/",
+   "address": "17 Patteson Avenue, Mission Bay, Auckland",
+   "lat": -36.849545,
+   "lng": 174.8310685
+ },
+ {
+   "name": "Beachhaven Medical",
+   "url": "/doctors/gp/beachhaven-medical/",
+   "address": "330 Rangatira Road, Beach Haven, Auckland",
+   "lat": -36.8017521,
+   "lng": 174.69131
+ },
+ {
+   "name": "Beachlands Medical Centre",
+   "url": "/doctors/gp/beachlands-medical-centre/",
+   "address": "Beachlands Medical Centre",
+   "lat": -36.8820007,
+   "lng": 174.9967435
+ },
+ {
+   "name": "Belmont Medical Centre",
+   "url": "/doctors/gp/belmont-medical-centre/",
+   "address": "3 Williamson Avenue, Belmont, Auckland",
+   "lat": -36.808346,
+   "lng": 174.7904833
+ },
+ {
+   "name": "Birkdale Family Doctors Ltd",
+   "url": "/doctors/gp/birkdale-family-doctors-ltd/",
+   "address": "93 Birkdale Road, Birkdale, Auckland",
+   "lat": -36.7973193,
+   "lng": 174.7009341
+ },
+ {
+   "name": "Birkenhead Medical Centre",
+   "url": "/doctors/gp/birkenhead-medical-centre/",
+   "address": "4 Rawene Road, Birkenhead, Auckland",
+   "lat": -36.8135292,
+   "lng": 174.7263806
+ },
+ {
+   "name": "Bishop Medical Centre",
+   "url": "/doctors/gp/bishop-medical-centre/",
+   "address": "8R Bishop Lenihan Place, East Tamaki, Auckland",
+   "lat": -36.96198756,
+   "lng": 174.8995543
+ },
+ {
+   "name": "Blockhouse Bay Medical Centre",
+   "url": "/doctors/gp/blockhouse-bay-medical-centre/",
+   "address": "503 Blockhouse Bay Road, Blockhouse Bay, Auckland",
+   "lat": -36.9223484,
+   "lng": 174.7008562
+ },
+ {
+   "name": "Botany Doctor",
+   "url": "/doctors/gp/botany-doctor/",
+   "address": "Botany Town Centre",
+   "lat": -36.9355725,
+   "lng": 174.914684
+ },
+ {
+   "name": "Botany Doctor",
+   "url": "/doctors/gp/botany-doctor/",
+   "address": "Botany Town Centre",
+   "lat": -36.9355725,
+   "lng": 174.914684
+ },
+ {
+   "name": "Botany Junction Medical Centre",
+   "url": "/doctors/gp/botany-junction-medical-centre/",
+   "address": "110 Michael Jones Drive, Flat Bush, Auckland",
+   "lat": -36.9650376,
+   "lng": 174.9034228
+ },
+ {
+   "name": "Botany Junction Medical Centre",
+   "url": "/doctors/gp/botany-junction-medical-centre/",
+   "address": "110 Michael Jones Drive, Flat Bush, Auckland",
+   "lat": -36.9650376,
+   "lng": 174.9034228
+ },
+ {
+   "name": "Botany Terrace Medical Centre",
+   "url": "/doctors/gp/botany-terrace-medical-centre/",
+   "address": "301F Botany Road, Golflands, Auckland",
+   "lat": -36.92526736,
+   "lng": 174.9127024
+ },
+ {
+   "name": "Botany Terrace Medical Centre",
+   "url": "/doctors/gp/botany-terrace-medical-centre/",
+   "address": "301F Botany Road, Golflands, Auckland",
+   "lat": -36.92526736,
+   "lng": 174.9127024
+ },
+ {
+   "name": "Botany Town Centre Medical Practice",
+   "url": "/doctors/gp/botany-town-centre-medical-practice/",
+   "address": "Botany Town Centre",
+   "lat": -36.9355725,
+   "lng": 174.914684
+ },
+ {
+   "name": "Browns Bay Family Doctors",
+   "url": "/doctors/gp/browns-bay-family-doctors/",
+   "address": "65 Clyde Road, Browns Bay, Auckland",
+   "lat": -36.7149449,
+   "lng": 174.7482305
+ },
+ {
+   "name": "Browns Bay Medical Centre",
+   "url": "/doctors/gp/browns-bay-medical-centre/",
+   "address": "32 Anzac Road, Browns Bay, Auckland",
+   "lat": -36.7170484,
+   "lng": 174.7461076
+ },
+ {
+   "name": "Browns Bay Medical Centre",
+   "url": "/doctors/gp/browns-bay-medical-centre/",
+   "address": "32 Anzac Road, Browns Bay, Auckland",
+   "lat": -36.7170484,
+   "lng": 174.7461076
+ },
+ {
+   "name": "Byron Medical",
+   "url": "/doctors/gp/byron-medical/",
+   "address": "2 Byron Avenue, Takapuna, Auckland",
+   "lat": -36.7906436,
+   "lng": 174.7725791
+ },
+ {
+   "name": "Cairnhill Health Centre",
+   "url": "/doctors/gp/cairnhill-health-centre/",
+   "address": "95 Mountain Road, Epsom, Auckland",
+   "lat": -36.87297,
+   "lng": 174.7685275
+ },
+ {
+   "name": "Cavendish Family Doctors",
+   "url": "/doctors/gp/cavendish-family-doctors/",
+   "address": "Cavendish Clinic",
+   "lat": -36.99298945,
+   "lng": 174.8605764
+ },
+ {
+   "name": "CityMed Doctors Ltd",
+   "url": "/doctors/gp/citymed-doctors-ltd/",
+   "address": "Quay West Building, Auckland Central",
+   "lat": -36.8448541,
+   "lng": 174.7654108
+ },
+ {
+   "name": "Clendon Family Health Centre",
+   "url": "/doctors/gp/clendon-family-health-centre/",
+   "address": "9 Robert Ross Place, Clendon Park, Auckland",
+   "lat": -37.0313912,
+   "lng": 174.8676438
+ },
+ {
+   "name": "Clendon Family Health Centre",
+   "url": "/doctors/gp/clendon-family-health-centre/",
+   "address": "9 Robert Ross Place, Clendon Park, Auckland",
+   "lat": -37.0313912,
+   "lng": 174.8676438
+ },
+ {
+   "name": "Clendon Medical Centre",
+   "url": "/doctors/gp/clendon-medical-centre-1/",
+   "address": "Clendon Medical Centre",
+   "lat": -37.0339441,
+   "lng": 174.8671068
+ },
+ {
+   "name": "Clevedon Road Medical Centre",
+   "url": "/doctors/gp/clevedon-road-medical-centre-1/",
+   "address": "1 Clevedon Road, Papakura",
+   "lat": -37.0621494,
+   "lng": 174.9485695
+ },
+ {
+   "name": "Clevedon Village Medical Centre",
+   "url": "/doctors/gp/clevedon-village-medical-centre/",
+   "address": "27 Papakura-Clevedon Road, Clevedon",
+   "lat": -36.9940928,
+   "lng": 175.0362654
+ },
+ {
+   "name": "Coast To Coast Health Care",
+   "url": "/doctors/gp/coast-to-coast-health-care/",
+   "address": "220 Rodney Street, Wellsford, 0900",
+   "lat": -36.2924946,
+   "lng": 174.5224025
+ },
+ {
+   "name": "Coast To Coast Health Care",
+   "url": "/doctors/gp/coast-to-coast-health-care/",
+   "address": "74 Matakana Valley Road, Matakana, 0985",
+   "lat": -36.3497205,
+   "lng": 174.7125067
+ },
+ {
+   "name": "Coast To Coast Health Care",
+   "url": "/doctors/gp/coast-to-coast-health-care/",
+   "address": "145 Mahurangi East Road, Snells Beach, 0920",
+   "lat": -36.4115082,
+   "lng": 174.7195144
+ },
+ {
+   "name": "Coastcare Accident and Medical Centre",
+   "url": "/doctors/gp/coastcare-accident-and-medical-centre/",
+   "address": "Red Beach Shopping Centre, Red Beach",
+   "lat": -36.60605892,
+   "lng": 174.6985817
+ },
+ {
+   "name": "Coastcare Chartwell Medical Centre",
+   "url": "/doctors/gp/coastcare-chartwell-medical-centre/",
+   "address": "31 Chartwell Avenue, Glenfield, Auckland",
+   "lat": -36.7832449,
+   "lng": 174.7315888
+ },
+ {
+   "name": "Coastcare Medical Centre - Birkenhead",
+   "url": "/doctors/gp/coastcare-medical-centre-birkenhead/",
+   "address": "121 Birkenhead Avenue, Birkenhead, Auckland",
+   "lat": -36.8073642,
+   "lng": 174.7258375
+ },
+ {
+   "name": "Coastcare Medical Centre - Birkenhead",
+   "url": "/doctors/gp/coastcare-medical-centre-birkenhead/",
+   "address": "121 Birkenhead Avenue, Birkenhead, Auckland",
+   "lat": -36.8073642,
+   "lng": 174.7258375
+ },
+ {
+   "name": "College Hill Doctors",
+   "url": "/doctors/gp/college-hill-doctors/",
+   "address": "46 College Hill, Freemans Bay, Auckland",
+   "lat": -36.8486298,
+   "lng": 174.7477917
+ },
+ {
+   "name": "Conifer Grove Medical Centre",
+   "url": "/doctors/gp/conifer-grove-medical-centre/",
+   "address": "138 Great South Road, Takanini",
+   "lat": -37.0411077,
+   "lng": 174.9171448
+ },
+ {
+   "name": "Cornwall Medical Centre",
+   "url": "/doctors/gp/cornwall-medical-centre/",
+   "address": "790 Manukau Road, Royal Oak, Auckland",
+   "lat": -36.9115481,
+   "lng": 174.7762525
+ },
+ {
+   "name": "Counties Family Health Care",
+   "url": "/doctors/gp/counties-family-health-care/",
+   "address": "79-85 Great South Road, Papakura",
+   "lat": -37.0592652,
+   "lng": 174.9401602
+ },
+ {
+   "name": "Counties Urgent Care",
+   "url": "/doctors/gp/counties-urgent-care/",
+   "address": "79-85 Great South Road, Papakura",
+   "lat": -37.0594051,
+   "lng": 174.9403788
+ },
+ {
+   "name": "Country Medical Clinic",
+   "url": "/doctors/gp/country-medical-clinic/",
+   "address": "76 Main Road, Kumeu",
+   "lat": -36.7764113,
+   "lng": 174.5575693
+ },
+ {
+   "name": "Crawford Medical Centre",
+   "url": "/doctors/gp/crawford-medical-centre/",
+   "address": "Crawford Medical Centre",
+   "lat": -36.8919603,
+   "lng": 174.9292905
+ },
+ {
+   "name": "Devonport Family Medicine",
+   "url": "/doctors/gp/devonport-family-medicine/",
+   "address": "2 Fleet Street, Devonport, Auckland",
+   "lat": -36.8292808,
+   "lng": 174.7973013
+ },
+ {
+   "name": "Devonport Medical Centre",
+   "url": "/doctors/gp/devonport-medical-centre/",
+   "address": "82 Lake Road, Narrow Neck, Auckland",
+   "lat": -36.8129655,
+   "lng": 174.792624
+ },
+ {
+   "name": "Devonport Medical Centre",
+   "url": "/doctors/gp/devonport-medical-centre/",
+   "address": "82 Lake Road, Narrow Neck, Auckland",
+   "lat": -36.8129655,
+   "lng": 174.792624
+ },
+ {
+   "name": "Doctors at Kingsland",
+   "url": "/doctors/gp/doctors-at-kingsland/",
+   "address": "491A New North Road, Kingsland, Auckland",
+   "lat": -36.87193935,
+   "lng": 174.7440666
+ },
+ {
+   "name": "Doctors on Jervois",
+   "url": "/doctors/gp/doctors-on-jervois/",
+   "address": "Doctors on Jervois",
+   "lat": -36.8458991,
+   "lng": 174.7413596
+ },
+ {
+   "name": "Dodson Medical",
+   "url": "/doctors/gp/dodson-medical/",
+   "address": "4 Dodson Avenue, Milford, Auckland",
+   "lat": -36.7739139,
+   "lng": 174.7665549
+ },
+ {
+   "name": "Dominion Medical Centre",
+   "url": "/doctors/gp/dominion-medical-centre-1/",
+   "address": "349 Mount Albert Road, Mount Roskill, Auckland",
+   "lat": -36.903714,
+   "lng": 174.7400248
+ },
+ {
+   "name": "Dominion Road Surgery",
+   "url": "/doctors/gp/dominion-road-surgery/",
+   "address": "123D Dominion Road, Mount Eden, Auckland",
+   "lat": -36.8725822,
+   "lng": 174.7518855
+ },
+ {
+   "name": "Donovan Street Medical Centre",
+   "url": "/doctors/gp/donovan-street-medical-centre-1/",
+   "address": "Donovan Street Medical Centre",
+   "lat": -36.9224204,
+   "lng": 174.7017782
+ },
+ {
+   "name": "Dr Chas Luen - General Practitioner",
+   "url": "/doctors/gp/dr-chas-luen-general-practitioner/",
+   "address": "36 Covil Avenue, Te Atatu South, Auckland",
+   "lat": -36.8616113,
+   "lng": 174.6548501
+ },
+ {
+   "name": "Dr De Lacey Surgery",
+   "url": "/doctors/gp/dr-de-lacey-surgery/",
+   "address": "17 Elstree Avenue, Glen Innes, Auckland",
+   "lat": -36.8714668,
+   "lng": 174.8652934
+ },
+ {
+   "name": "Dr K Magan Surgery",
+   "url": "/doctors/gp/dr-k-magan-surgery/",
+   "address": "Corner of Yates Road & Massey Road, Mangere East, Auckland",
+   "lat": -36.9661212,
+   "lng": 174.8258963
+ },
+ {
+   "name": "Dr Nicholas Cooper",
+   "url": "/doctors/gp/dr-nicholas-cooper/",
+   "address": "48 The Drive, Epsom, Auckland",
+   "lat": -36.8913969,
+   "lng": 174.7707705
+ },
+ {
+   "name": "Dr Patel's Surgery",
+   "url": "/doctors/gp/dr-patels-surgery/",
+   "address": "738 Massey Road, Mangere, Auckland",
+   "lat": -36.9763967,
+   "lng": 174.7970119
+ },
+ {
+   "name": "Dr Upsdell's Surgery",
+   "url": "/doctors/gp/dr-upsdells-surgery/",
+   "address": "2 Graeme Avenue, Mangere East, Auckland",
+   "lat": -36.9725434,
+   "lng": 174.8341019
+ },
+ {
+   "name": "Dr Zhuang & Wah Surgery",
+   "url": "/doctors/gp/dr-zhuang-wah-surgery/",
+   "address": "5/283 Ponsonby Road, Ponsonby, Auckland",
+   "lat": -36.8482585,
+   "lng": 174.7443102
+ },
+ {
+   "name": "Drury Lane Surgery",
+   "url": "/doctors/gp/drury-lane-surgery/",
+   "address": "213 Great South Road, Drury",
+   "lat": -37.100957,
+   "lng": 174.9509201
+ },
+ {
+   "name": "Drury Surgery Ltd",
+   "url": "/doctors/gp/drury-surgery-ltd/",
+   "address": "175 Great South Road, Drury",
+   "lat": -37.098174,
+   "lng": 174.9484406
+ },
+ {
+   "name": "DW Family Doctors",
+   "url": "/doctors/gp/dw-family-doctors/",
+   "address": "177 Pakuranga Road, Pakuranga, Auckland",
+   "lat": -36.9110383,
+   "lng": 174.8748545
+ },
+ {
+   "name": "East Care Accident & Medical",
+   "url": "/doctors/gp/east-care-accident-medical/",
+   "address": "East Care",
+   "lat": -36.9223969,
+   "lng": 174.9137004
+ },
+ {
+   "name": "East Coast Bays Doctors",
+   "url": "/doctors/gp/east-coast-bays-doctors/",
+   "address": "512 East Coast Road, Windsor Park, Auckland",
+   "lat": -36.740348,
+   "lng": 174.7418538
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Airport Oaks",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-airport-oaks/",
+   "address": "East Tamaki Healthcare (ETHC) - Airport Oaks",
+   "lat": -36.9714065,
+   "lng": 174.785845
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Bairds Road",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-bairds-road/",
+   "address": "160 Bairds Road, Otara, Auckland",
+   "lat": -36.9607199,
+   "lng": 174.875114
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Botany South",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-botany-south/",
+   "address": "455 East Tamaki Road, East Tamaki, Auckland",
+   "lat": -36.9489612,
+   "lng": 174.9055891
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Chapel Park",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-chapel-park/",
+   "address": "160 Chapel Road, Flat Bush, Auckland",
+   "lat": -36.9484475,
+   "lng": 174.9112416
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Dannemora",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-dannemora/",
+   "address": "1-3 Redcastle Drive, East Tamaki, Auckland",
+   "lat": -36.9453299,
+   "lng": 174.9068517
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Dawson Road",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-dawson-road/",
+   "address": "East Tamaki Healthcare (ETHC) - Dawson Road",
+   "lat": -36.9769806,
+   "lng": 174.8961312
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - East Tamaki",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-east-tamaki/",
+   "address": "275 East Tamaki Road, Otara, Auckland",
+   "lat": -36.9610281,
+   "lng": 174.8878344
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Glen Innes",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-glen-innes-1/",
+   "address": "East Tamaki Healthcare (ETHC) Glen Innes",
+   "lat": -36.8788902,
+   "lng": 174.8561936
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Kolmar Road",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-kolmar-road/",
+   "address": "133 Kolmar Road, Papatoetoe, Auckland",
+   "lat": -36.9705824,
+   "lng": 174.8593831
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Mangere Town Centre",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-mangere-town/",
+   "address": "10 Waddon Place, Mangere, Auckland",
+   "lat": -36.9711686,
+   "lng": 174.7989505
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Manurewa",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-manurewa/",
+   "address": "235 Browns Road, Manurewa, Auckland",
+   "lat": -37.0178881,
+   "lng": 174.8632854
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Otahuhu",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-otahuhu/",
+   "address": "15-23 Station Road, Otahuhu, Auckland",
+   "lat": -36.9426401,
+   "lng": 174.8404322
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Otahuhu",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-otahuhu/",
+   "address": "15-23 Station Road, Otahuhu, Auckland",
+   "lat": -36.9426401,
+   "lng": 174.8404322
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Otahuhu",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-otahuhu/",
+   "address": "15-23 Station Road, Otahuhu, Auckland",
+   "lat": -36.9426401,
+   "lng": 174.8404322
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Otara Mall",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-otara-mall/",
+   "address": "120 East Tamaki Road, Otara, Auckland",
+   "lat": -36.9619783,
+   "lng": 174.8732386
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Sandringham Health Centre",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-sandringham-health/",
+   "address": "546 Sandringham Road, Sandringham, Auckland",
+   "lat": -36.8918008,
+   "lng": 174.7366828
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Stoddard Road",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-stoddard-road/",
+   "address": "20 Stoddard Road, Mount Roskill, Auckland",
+   "lat": -36.9074859,
+   "lng": 174.7343223
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Sylvia Park",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-sylvia-park/",
+   "address": "Sylvia Park Shopping Centre",
+   "lat": -36.9135005,
+   "lng": 174.8407995
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) - Takanini Medical Centre",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-takanini-medical/",
+   "address": "30 Walters Road, Takanini",
+   "lat": -37.0484319,
+   "lng": 174.9331862
+ },
+ {
+   "name": "East Tamaki Healthcare (ETHC) Clendon Medical Clinic",
+   "url": "/doctors/gp/east-tamaki-healthcare-ethc-clendon-medical/",
+   "address": "459 Roscommon Road, Clendon Park, Auckland",
+   "lat": -37.032968,
+   "lng": 174.8691682
+ },
+ {
+   "name": "Eastern Family Doctors",
+   "url": "/doctors/gp/eastern-family-doctors/",
+   "address": "17 Aviemore Drive, Highland Park, Auckland",
+   "lat": -36.9008222,
+   "lng": 174.9046793
+ },
+ {
+   "name": "EastMed Doctors",
+   "url": "/doctors/gp/eastmed-doctors/",
+   "address": "eastMED Integrated Medical Centre, St Heliers",
+   "lat": -36.8621229,
+   "lng": 174.8588211
+ },
+ {
+   "name": "Eastside Family Doctor",
+   "url": "/doctors/gp/eastside-family-doctor/",
+   "address": "98 Ti Rakau Drive, Pakuranga, Auckland",
+   "lat": -36.9181432,
+   "lng": 174.8747104
+ },
+ {
+   "name": "Eden-Epsom Medical Centre",
+   "url": "/doctors/gp/eden-epsom-medical-centre/",
+   "address": "475A Manukau Road, Epsom, Auckland",
+   "lat": -36.8943762,
+   "lng": 174.7738878
+ },
+ {
+   "name": "Ellerslie Medical Centre",
+   "url": "/doctors/gp/ellerslie-medical-centre/",
+   "address": "Cnr Robert & Morrin Streets, Ellerslie",
+   "lat": -36.8930508,
+   "lng": 174.8081602
+ },
+ {
+   "name": "Epsom Family Health Centre",
+   "url": "/doctors/gp/epsom-family-health-centre/",
+   "address": "691 Manukau Road, Royal Oak, Auckland",
+   "lat": -36.9104783,
+   "lng": 174.7748191
+ },
+ {
+   "name": "Epsom Medical Care",
+   "url": "/doctors/gp/epsom-medical-care/",
+   "address": "272 Manukau Road, Epsom, Auckland",
+   "lat": -36.8862775,
+   "lng": 174.7757908
+ },
+ {
+   "name": "Epsom Medical Centre",
+   "url": "/doctors/gp/epsom-medical-centre/",
+   "address": "102 Great South Road, Epsom, Auckland",
+   "lat": -36.8796297,
+   "lng": 174.7830058
+ },
+ {
+   "name": "Family Doctors",
+   "url": "/doctors/gp/family-doctors/",
+   "address": "10 Wade River Road, Stanmore Bay, Whangaparaoa",
+   "lat": -36.6377254,
+   "lng": 174.7478179
+ },
+ {
+   "name": "Family Doctors@Smales",
+   "url": "/doctors/gp/family-doctorssmales/",
+   "address": "Smales Farm Technology Office Park - Takapuna",
+   "lat": -36.78410794,
+   "lng": 174.753508
+ },
+ {
+   "name": "Family Health Care Medical Centre",
+   "url": "/doctors/gp/family-health-care-medical-centre/",
+   "address": "17 Aberfeldy Avenue, Highland Park, Auckland",
+   "lat": -36.89994002,
+   "lng": 174.9087918
+ },
+ {
+   "name": "Family Medicine Birkenhead",
+   "url": "/doctors/gp/family-medicine-birkenhead/",
+   "address": "29 Birkenhead Avenue, Birkenhead, Auckland",
+   "lat": -36.810288,
+   "lng": 174.7367392
+ },
+ {
+   "name": "Family Practice and Medical Centre",
+   "url": "/doctors/gp/family-practice-and-medical-centre/",
+   "address": "437 Swanson Road, Ranui, Auckland",
+   "lat": -36.8639808,
+   "lng": 174.6014255
+ },
+ {
+   "name": "Fellbrook Medical Centre",
+   "url": "/doctors/gp/fellbrook-medical-centre/",
+   "address": "33 Fellbrook Street, Manurewa, Auckland",
+   "lat": -37.02049224,
+   "lng": 174.8644388
+ },
+ {
+   "name": "Fenwick Medical Centre",
+   "url": "/doctors/gp/fenwick-medical-centre/",
+   "address": "217 Shakespeare Road, Milford",
+   "lat": -36.7819274,
+   "lng": 174.7530007
+ },
+ {
+   "name": "Forrest Hill Family Medical Centre",
+   "url": "/doctors/gp/forrest-hill-family-medical-centre/",
+   "address": "1/1 Grenada Avenue, Forrest Hill, Auckland",
+   "lat": -36.8484597,
+   "lng": 174.7633315
+ },
+ {
+   "name": "Four Kauri Family Medical Centre",
+   "url": "/doctors/gp/four-kauri-family-medical-centre/",
+   "address": "743 New North Road, Mount Albert, Auckland",
+   "lat": -36.8784863,
+   "lng": 174.72633
+ },
+ {
+   "name": "Fred Thomas Health Family Medical Centre",
+   "url": "/doctors/gp/fred-thomas-health-family-medical-centre/",
+   "address": "Fred Thomas Health Family Medical Centre",
+   "lat": -36.7912102,
+   "lng": 174.763653
+ },
+ {
+   "name": "Freemans Bay Medical Centre",
+   "url": "/doctors/gp/freemans-bay-medical-centre/",
+   "address": "100 Wellington Street, Freemans Bay, Auckland",
+   "lat": -36.8520951,
+   "lng": 174.7510544
+ },
+ {
+   "name": "Gabriel Medical Practice",
+   "url": "/doctors/gp/gabriel-medical-practice/",
+   "address": "464 Richardson Road, Mount Roskill, Auckland",
+   "lat": -36.9124613,
+   "lng": 174.7281034
+ },
+ {
+   "name": "Gardens Medical Limited",
+   "url": "/doctors/gp/gardens-medical-limited/",
+   "address": "179 Hill Road, Manurewa, Auckland",
+   "lat": -37.0113254,
+   "lng": 174.9161542
+ },
+ {
+   "name": "Gardens Medical Limited",
+   "url": "/doctors/gp/gardens-medical-limited/",
+   "address": "179 Hill Road, Manurewa, Auckland",
+   "lat": -37.0113254,
+   "lng": 174.9161542
+ },
+ {
+   "name": "Gavin Lobo Health Ltd",
+   "url": "/doctors/gp/gavin-lobo-health-ltd/",
+   "address": "337 Dominion Road, Mt Eden",
+   "lat": -36.8790067,
+   "lng": 174.7497145
+ },
+ {
+   "name": "Glenavon Doctor's Surgery",
+   "url": "/doctors/gp/glenavon-doctors-surgery/",
+   "address": "271A Blockhouse Bay Road, Avondale, Auckland",
+   "lat": -36.9066882,
+   "lng": 174.7014315
+ },
+ {
+   "name": "Glenfield Doctors on Chartwell",
+   "url": "/doctors/gp/glenfield-doctors-on-chartwell/",
+   "address": "52 Chartwell Avenue, Glenfield, Auckland",
+   "lat": -36.7826699,
+   "lng": 174.730143
+ },
+ {
+   "name": "Glenfield Family Doctors",
+   "url": "/doctors/gp/glenfield-family-doctors/",
+   "address": "571 Glenfield Road, Glenfield, Auckland",
+   "lat": -36.7704053,
+   "lng": 174.721913
+ },
+ {
+   "name": "Glenfield Family Doctors",
+   "url": "/doctors/gp/glenfield-family-doctors/",
+   "address": "571 Glenfield Road, Glenfield, Auckland",
+   "lat": -36.7704053,
+   "lng": 174.721913
+ },
+ {
+   "name": "Glenfield Medical Centre",
+   "url": "/doctors/gp/glenfield-medical-centre/",
+   "address": "Glenfield Medical Centre",
+   "lat": -36.7802116,
+   "lng": 174.7214199
+ },
+ {
+   "name": "Glenfield Medical Centre",
+   "url": "/doctors/gp/glenfield-medical-centre/",
+   "address": "Glenfield Medical Centre",
+   "lat": -36.7802116,
+   "lng": 174.7214199
+ },
+ {
+   "name": "Green Bay Medical Centre",
+   "url": "/doctors/gp/green-bay-medical-centre/",
+   "address": "70 Godley Road, Green Bay, Auckland",
+   "lat": -36.9309337,
+   "lng": 174.6786315
+ },
+ {
+   "name": "Green Cross Clinic",
+   "url": "/doctors/gp/green-cross-clinic/",
+   "address": "4 Auburn Street, Takapuna, Auckland",
+   "lat": -36.7894679,
+   "lng": 174.7688818
+ },
+ {
+   "name": "Green Cross Clinic",
+   "url": "/doctors/gp/green-cross-clinic/",
+   "address": "4 Auburn Street, Takapuna, Auckland",
+   "lat": -36.7894679,
+   "lng": 174.7688818
+ },
+ {
+   "name": "Greenhithe Medical Centre",
+   "url": "/doctors/gp/greenhithe-medical-centre/",
+   "address": "22 Greenhithe Road, Greenhithe, Auckland",
+   "lat": -36.7742504,
+   "lng": 174.6714403
+ },
+ {
+   "name": "Greenstone Family Clinic",
+   "url": "/doctors/gp/greenstone-family-clinic/",
+   "address": "157 Great South Road, Manurewa, Auckland",
+   "lat": -37.020321,
+   "lng": 174.895542
+ },
+ {
+   "name": "Greenstone Family Clinic",
+   "url": "/doctors/gp/greenstone-family-clinic/",
+   "address": "157 Great South Road, Manurewa, Auckland",
+   "lat": -37.020321,
+   "lng": 174.895542
+ },
+ {
+   "name": "Greenwood Medical Centre",
+   "url": "/doctors/gp/greenwood-medical-centre/",
+   "address": "641 Manukau Road, Royal Oak, Auckland",
+   "lat": -36.9060132,
+   "lng": 174.7742012
+ },
+ {
+   "name": "Grey Lynn Family Medical Centre",
+   "url": "/doctors/gp/grey-lynn-family-medical-centre/",
+   "address": "543 Great North Road, Grey Lynn, Auckland",
+   "lat": -36.8648504,
+   "lng": 174.7376784
+ },
+ {
+   "name": "Hall Avenue Medical Centre",
+   "url": "/doctors/gp/hall-avenue-medical-centre/",
+   "address": "23 Hall Avenue, Otahuhu, Auckland",
+   "lat": -36.944839,
+   "lng": 174.8431098
+ },
+ {
+   "name": "Hauora o Puketapapa - Roskill Union & Community Health",
+   "url": "/doctors/gp/hauora-o-puketapapa-roskill-union-community/",
+   "address": "1492 Dominion Road Extension, Mount Roskill, Auckland",
+   "lat": -36.921015,
+   "lng": 174.7361036
+ },
+ {
+   "name": "Hauraki Medical Centre",
+   "url": "/doctors/gp/hauraki-medical-centre/",
+   "address": "Hauraki Medical Centre",
+   "lat": -36.7972462,
+   "lng": 174.7793294
+ },
+ {
+   "name": "Health - I Care",
+   "url": "/doctors/gp/health-i-care/",
+   "address": "205 Wairau Road, Wairau Valley, Auckland",
+   "lat": -36.7697327,
+   "lng": 174.7356655
+ },
+ {
+   "name": "Health and Counselling Centre, Massey University",
+   "url": "/doctors/gp/health-and-counselling-centre-massey-university/",
+   "address": "Student Amenities Centre, Massey University, Albany",
+   "lat": -36.734753,
+   "lng": 174.6923293
+ },
+ {
+   "name": "Health and Happiness (un) Ltd",
+   "url": "/doctors/gp/health-and-happiness-un-ltd/",
+   "address": "488 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.977737,
+   "lng": 174.8715908
+ },
+ {
+   "name": "Health and Happiness (un) Ltd",
+   "url": "/doctors/gp/health-and-happiness-un-ltd/",
+   "address": "488 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.977737,
+   "lng": 174.8715908
+ },
+ {
+   "name": "HEALTH NEW LYNN",
+   "url": "/doctors/gp/health-new-lynn/",
+   "address": "Totara Health",
+   "lat": -36.908843,
+   "lng": 174.6837183
+ },
+ {
+   "name": "Health Star Medical Centre - Glen Innes",
+   "url": "/doctors/gp/health-star-medical-centre-glen-innes/",
+   "address": "132 West Tamaki Road, Glen Innes, Auckland",
+   "lat": -36.8693482,
+   "lng": 174.8599409
+ },
+ {
+   "name": "Healthcare Roskill South",
+   "url": "/doctors/gp/healthcare-roskill-south/",
+   "address": "1259 Dominion Road Extension, Mount Roskill, Auckland",
+   "lat": -36.921166,
+   "lng": 174.7355256
+ },
+ {
+   "name": "Healthwise Beach Haven",
+   "url": "/doctors/gp/healthwise-beach-haven/",
+   "address": "352 Rangatira Road, Beach Haven, Auckland",
+   "lat": -36.7921664,
+   "lng": 174.6873677
+ },
+ {
+   "name": "Healthwise Beach Haven",
+   "url": "/doctors/gp/healthwise-beach-haven/",
+   "address": "352 Rangatira Road, Beach Haven, Auckland",
+   "lat": -36.7921664,
+   "lng": 174.6873677
+ },
+ {
+   "name": "HealthZone",
+   "url": "/doctors/gp/healthzone/",
+   "address": "AUT Millennium",
+   "lat": -36.7421613,
+   "lng": 174.7331282
+ },
+ {
+   "name": "Henderson Medical Centre",
+   "url": "/doctors/gp/henderson-medical-centre-1/",
+   "address": "Henderson Medical Centre",
+   "lat": -36.8809061,
+   "lng": 174.6377966
+ },
+ {
+   "name": "Herne Bay Medical Centre",
+   "url": "/doctors/gp/herne-bay-medical-centre/",
+   "address": "2 Albany Rd, Auckland, 1011",
+   "lat": -36.8459867,
+   "lng": 174.7328517
+ },
+ {
+   "name": "Hibiscus Coast Medical Centre",
+   "url": "/doctors/gp/hibiscus-coast-medical-centre/",
+   "address": "13 Moana Avenue, Orewa",
+   "lat": -36.5866161,
+   "lng": 174.6932392
+ },
+ {
+   "name": "Highgate Surgery",
+   "url": "/doctors/gp/highgate-surgery/",
+   "address": "139 Millhouse Drive, Golflands, Auckland",
+   "lat": -36.919638,
+   "lng": 174.9152109
+ },
+ {
+   "name": "Highgate Surgery",
+   "url": "/doctors/gp/highgate-surgery/",
+   "address": "139 Millhouse Drive, Golflands, Auckland",
+   "lat": -36.919638,
+   "lng": 174.9152109
+ },
+ {
+   "name": "Highland Park Medical",
+   "url": "/doctors/gp/highland-park-medical/",
+   "address": "14 Highland Park Drive, Highland Park, Auckland",
+   "lat": -36.89988,
+   "lng": 174.9078565
+ },
+ {
+   "name": "Highland Park Medical",
+   "url": "/doctors/gp/highland-park-medical/",
+   "address": "14 Highland Park Drive, Highland Park, Auckland",
+   "lat": -36.89988,
+   "lng": 174.9078565
+ },
+ {
+   "name": "Hillpark Family Medical Centre",
+   "url": "/doctors/gp/hillpark-family-medical-centre/",
+   "address": "32 Dennis Avenue, Manurewa, Auckland",
+   "lat": -37.0138948,
+   "lng": 174.9007502
+ },
+ {
+   "name": "Hillsborough Medical Centre",
+   "url": "/doctors/gp/hillsborough-medical-centre/",
+   "address": "165 Hillsborough Road, Hillsborough, Auckland",
+   "lat": -36.9197338,
+   "lng": 174.7574083
+ },
+ {
+   "name": "Hillside Medical Centre",
+   "url": "/doctors/gp/hillside-medical-centre/",
+   "address": "711 Richardson Road, Hillsborough, Auckland",
+   "lat": -36.9261124,
+   "lng": 174.7493035
+ },
+ {
+   "name": "Hobsonville Family Doctors",
+   "url": "/doctors/gp/hobsonville-family-doctors/",
+   "address": "124 Hobsonville Road, Hobsonville",
+   "lat": -36.79764325,
+   "lng": 174.6489179
+ },
+ {
+   "name": "Hobsonville Medical Centre",
+   "url": "/doctors/gp/hobsonville-medical-centre/",
+   "address": "42 Suncrest Drive, West Harbour, Auckland",
+   "lat": -36.8044965,
+   "lng": 174.6391506
+ },
+ {
+   "name": "Hobsonville Point Medical Centre",
+   "url": "/doctors/gp/hobsonville-point-medical-centre/",
+   "address": "3A/160 Hobsonville Point Road, Hobsonville, Auckland",
+   "lat": -36.79283547,
+   "lng": 174.6609364
+ },
+ {
+   "name": "Holistic Medical Centre",
+   "url": "/doctors/gp/holistic-medical-centre/",
+   "address": "48A Ponsonby Road, Grey Lynn, Auckland",
+   "lat": -36.8589186,
+   "lng": 174.7508121
+ },
+ {
+   "name": "Hong Kong Surgery",
+   "url": "/doctors/gp/hong-kong-surgery/",
+   "address": "111 Queens Road, Panmure, Auckland",
+   "lat": -36.900033,
+   "lng": 174.854786
+ },
+ {
+   "name": "Howick Health and Medical Centre",
+   "url": "/doctors/gp/howick-health-and-medical-centre/",
+   "address": "108 Ridge Road, Howick, Auckland",
+   "lat": -36.8955894,
+   "lng": 174.9229652
+ },
+ {
+   "name": "Howick House Medical",
+   "url": "/doctors/gp/howick-house-medical/",
+   "address": "43 Moore Street, Howick, Auckland",
+   "lat": -36.895779,
+   "lng": 174.9311783
+ },
+ {
+   "name": "Howick House Medical",
+   "url": "/doctors/gp/howick-house-medical/",
+   "address": "43 Moore Street, Howick, Auckland",
+   "lat": -36.895779,
+   "lng": 174.9311783
+ },
+ {
+   "name": "Howick Medical Practice",
+   "url": "/doctors/gp/howick-medical-practice/",
+   "address": "128 Picton Street, Howick, Auckland",
+   "lat": -36.8951546,
+   "lng": 174.9334952
+ },
+ {
+   "name": "Howick Medical Practice",
+   "url": "/doctors/gp/howick-medical-practice/",
+   "address": "128 Picton Street, Howick, Auckland",
+   "lat": -36.8951546,
+   "lng": 174.9334952
+ },
+ {
+   "name": "Huapai Family Medical Practice",
+   "url": "/doctors/gp/huapai-family-medical-practice/",
+   "address": "124 Matua Road, Huapai, Kumeu",
+   "lat": -36.7647485,
+   "lng": 174.5398832
+ },
+ {
+   "name": "Hunters Corner Medical Centre",
+   "url": "/doctors/gp/hunters-corner-medical-centre/",
+   "address": "26 Hoteo Avenue, Papatoetoe, Auckland",
+   "lat": -36.9698139,
+   "lng": 174.8625032
+ },
+ {
+   "name": "Integrated Medical Centre",
+   "url": "/doctors/gp/integrated-medical-centre/",
+   "address": "511 South Titirangi Road, Titirangi, Auckland",
+   "lat": -36.938972,
+   "lng": 174.6549189
+ },
+ {
+   "name": "Integrated Medical Centre",
+   "url": "/doctors/gp/integrated-medical-centre/",
+   "address": "511 South Titirangi Road, Titirangi, Auckland",
+   "lat": -36.938972,
+   "lng": 174.6549189
+ },
+ {
+   "name": "Johns Lane Surgery",
+   "url": "/doctors/gp/johns-lane-surgery/",
+   "address": "Cnr Pakuranga Road & Johns Lane, Pakuranga, Auckland",
+   "lat": -36.9086991,
+   "lng": 174.8830452
+ },
+ {
+   "name": "Juliet Avenue Surgery",
+   "url": "/doctors/gp/juliet-avenue-surgery/",
+   "address": "59 Juliet Avenue, Howick, Auckland",
+   "lat": -36.8949973,
+   "lng": 174.9170706
+ },
+ {
+   "name": "K' Road Medical Centre",
+   "url": "/doctors/gp/k-road-medical-centre/",
+   "address": "345 Karangahape Road, Auckland Central, Auckland",
+   "lat": -36.8578844,
+   "lng": 174.7572342
+ },
+ {
+   "name": "Kaipara Medical Centre",
+   "url": "/doctors/gp/kaipara-medical-centre/",
+   "address": "53-65 Commercial Road, Helensville, Auckland",
+   "lat": -36.6753989,
+   "lng": 174.4513862
+ },
+ {
+   "name": "Karaka Family Health",
+   "url": "/doctors/gp/karaka-family-health/",
+   "address": "71 Hingaia Road, Karaka",
+   "lat": -37.0740095,
+   "lng": 174.9229803
+ },
+ {
+   "name": "Kawakawa Bay Orere Health Clinic Inc",
+   "url": "/doctors/gp/kawakawa-bay-orere-health-clinic-inc/",
+   "address": "Kawakawa-Orere Road, Kawakawa Bay",
+   "lat": -36.9506133,
+   "lng": 175.170131
+ },
+ {
+   "name": "Kawakawa Bay Orere Health Clinic Inc",
+   "url": "/doctors/gp/kawakawa-bay-orere-health-clinic-inc/",
+   "address": "Kawakawa-Orere Road, Kawakawa Bay",
+   "lat": -36.9506133,
+   "lng": 175.170131
+ },
+ {
+   "name": "Kelston Medical Centre",
+   "url": "/doctors/gp/kelston-medical-centre/",
+   "address": "8 Archibald Road, Kelston, Auckland",
+   "lat": -36.9056287,
+   "lng": 174.6635986
+ },
+ {
+   "name": "Kingsland Family Health Centre",
+   "url": "/doctors/gp/kingsland-family-health-centre/",
+   "address": "495 New North Road, Kingsland, Auckland",
+   "lat": -36.8722373,
+   "lng": 174.7440451
+ },
+ {
+   "name": "Kitchener Road Medical Centre",
+   "url": "/doctors/gp/kitchener-road-medical-centre/",
+   "address": "174 Kitchener Road, Milford, Auckland",
+   "lat": -36.7726723,
+   "lng": 174.7650835
+ },
+ {
+   "name": "Kowhai Clinic",
+   "url": "/doctors/gp/kowhai-clinic/",
+   "address": "424 Glenfield Road, Glenfield, Auckland",
+   "lat": -36.7826583,
+   "lng": 174.7205315
+ },
+ {
+   "name": "Kowhai Surgery Ltd",
+   "url": "/doctors/gp/kowhai-surgery-ltd/",
+   "address": "Kowhai Surgery, Warkworth",
+   "lat": -36.3991087,
+   "lng": 174.6659424
+ },
+ {
+   "name": "Kumeu Village Medical Centre",
+   "url": "/doctors/gp/kumeu-village-medical-centre/",
+   "address": "92 Main Road, Kumeu",
+   "lat": -36.7757948,
+   "lng": 174.5555983
+ },
+ {
+   "name": "Langimalie Health Centre",
+   "url": "/doctors/gp/langimalie-health-centre/",
+   "address": "29 Hill St, Auckland, 1061",
+   "lat": -36.9240901,
+   "lng": 174.7790408
+ },
+ {
+   "name": "Langimalie Health Centre",
+   "url": "/doctors/gp/langimalie-health-centre/",
+   "address": "161 Queens Rd, Panmure, 1072",
+   "lat": -36.9008395,
+   "lng": 174.8542819
+ },
+ {
+   "name": "Leabank Health Centre",
+   "url": "/doctors/gp/leabank-health-centre/",
+   "address": "100 Weymouth Road, Manurewa, Auckland",
+   "lat": -37.0276997,
+   "lng": 174.8878926
+ },
+ {
+   "name": "Lincoln Medical Clinic",
+   "url": "/doctors/gp/lincoln-medical-clinic/",
+   "address": "96 Lincoln Road, Henderson, Auckland",
+   "lat": -36.8667945,
+   "lng": 174.6282681
+ },
+ {
+   "name": "Lynfield Medical Clinic",
+   "url": "/doctors/gp/lynfield-medical-clinic/",
+   "address": "Lynfield Shopping Centre",
+   "lat": -36.9260278,
+   "lng": 174.7228301
+ },
+ {
+   "name": "Lynnmall Medical Centre",
+   "url": "/doctors/gp/lynnmall-medical-centre/",
+   "address": "Lynnmall City, New Lynn",
+   "lat": -36.9078599,
+   "lng": 174.6852085
+ },
+ {
+   "name": "M.P.S. Surgery Ltd",
+   "url": "/doctors/gp/mps-surgery-ltd/",
+   "address": "44 Mason Avenue, Otahuhu, Auckland",
+   "lat": -36.9448406,
+   "lng": 174.8396915
+ },
+ {
+   "name": "M.P.S. Surgery Ltd",
+   "url": "/doctors/gp/mps-surgery-ltd/",
+   "address": "44 Mason Avenue, Otahuhu, Auckland",
+   "lat": -36.9448406,
+   "lng": 174.8396915
+ },
+ {
+   "name": "M.P.S. Surgery Ltd",
+   "url": "/doctors/gp/mps-surgery-ltd/",
+   "address": "44 Mason Avenue, Otahuhu, Auckland",
+   "lat": -36.9448406,
+   "lng": 174.8396915
+ },
+ {
+   "name": "Mairangi Medical Centre",
+   "url": "/doctors/gp/mairangi-medical-centre/",
+   "address": "2 Penzance Road, Mairangi Bay, Auckland",
+   "lat": -36.73804,
+   "lng": 174.7522096
+ },
+ {
+   "name": "Mangere Bridge Surgery",
+   "url": "/doctors/gp/mangere-bridge-surgery/",
+   "address": "29 Coronation Road, Mangere Bridge, Auckland",
+   "lat": -36.9420574,
+   "lng": 174.7874718
+ },
+ {
+   "name": "Mangere Bridge Village Family Health Centre",
+   "url": "/doctors/gp/mangere-bridge-village-family-health-centre/",
+   "address": "Mangere Bridge Village Family Health Centre",
+   "lat": -36.9430441,
+   "lng": 174.7877136
+ },
+ {
+   "name": "Mangere East Medical Centre",
+   "url": "/doctors/gp/mangere-east-medical-centre/",
+   "address": "359 Massey Road, Mangere East, Auckland",
+   "lat": -36.9665258,
+   "lng": 174.8251225
+ },
+ {
+   "name": "Mangere Family Doctors",
+   "url": "/doctors/gp/mangere-family-doctors/",
+   "address": "Mangere Family Doctors",
+   "lat": -36.9567364,
+   "lng": 174.8338618
+ },
+ {
+   "name": "Mangere Health Centre",
+   "url": "/doctors/gp/mangere-health-centre/",
+   "address": "Mangere Health Centre",
+   "lat": -36.971553,
+   "lng": 174.798688
+ },
+ {
+   "name": "Manly Medical Centre",
+   "url": "/doctors/gp/manly-medical-centre/",
+   "address": "58 Rawhiti Rd, Manly, Whangaparaoa, 0930",
+   "lat": -36.6312103,
+   "lng": 174.7606645
+ },
+ {
+   "name": "Manukau Family Doctors, Accident & Medical",
+   "url": "/doctors/gp/manukau-family-doctors-accident-medical/",
+   "address": "597 Great South Road, Manukau, Auckland",
+   "lat": -36.9841389,
+   "lng": 174.8785192
+ },
+ {
+   "name": "Manukau Medical Associates",
+   "url": "/doctors/gp/manukau-medical-associates/",
+   "address": "Manukau Medical Associates",
+   "lat": -36.9932452,
+   "lng": 174.8826161
+ },
+ {
+   "name": "Manurewa Family Doctors",
+   "url": "/doctors/gp/manurewa-family-doctors/",
+   "address": "9 Halver Road, Manurewa, Auckland",
+   "lat": -37.0220321,
+   "lng": 174.8987413
+ },
+ {
+   "name": "Manurewa Healthcare",
+   "url": "/doctors/gp/manurewa-healthcare/",
+   "address": "210 Great South Road, Manurewa, Auckland",
+   "lat": -37.0221625,
+   "lng": 174.8974782
+ },
+ {
+   "name": "Manurewa Medical Ltd",
+   "url": "/doctors/gp/manurewa-medical-ltd/",
+   "address": "157 Great South Road, Manurewa, Auckland",
+   "lat": -37.020321,
+   "lng": 174.895542
+ },
+ {
+   "name": "Maraetai Medical Centre",
+   "url": "/doctors/gp/maraetai-medical-centre/",
+   "address": "10 Maraetai School Road, Maraetai, Auckland",
+   "lat": -36.8807955,
+   "lng": 175.034398
+ },
+ {
+   "name": "Marina Medical",
+   "url": "/doctors/gp/marina-medical/",
+   "address": "Marina Medical & Specialists",
+   "lat": -36.8896702,
+   "lng": 174.898886
+ },
+ {
+   "name": "Marsden Medical Practice",
+   "url": "/doctors/gp/marsden-medical-practice/",
+   "address": "785 Mount Eden Road, Mount Eden, Auckland",
+   "lat": -36.8931099,
+   "lng": 174.7522881
+ },
+ {
+   "name": "Massey Medical Centre",
+   "url": "/doctors/gp/massey-medical-centre/",
+   "address": "394 Don Buck Road, Massey, Auckland",
+   "lat": -36.834938,
+   "lng": 174.6023287
+ },
+ {
+   "name": "Maungakiekie Clinic",
+   "url": "/doctors/gp/maungakiekie-clinic-1/",
+   "address": "Maungakiekie Clinic",
+   "lat": -36.8921709,
+   "lng": 174.7950877
+ },
+ {
+   "name": "McLaren Park Medical Centre",
+   "url": "/doctors/gp/mclaren-park-medical-centre/",
+   "address": "83 Bruce McLaren Road, Henderson, Auckland",
+   "lat": -36.8966881,
+   "lng": 174.6259509
+ },
+ {
+   "name": "Meadowbank Family Doctors",
+   "url": "/doctors/gp/meadowbank-family-doctors/",
+   "address": "Meadowbank Shopping Centre",
+   "lat": -36.87570712,
+   "lng": 174.8279017
+ },
+ {
+   "name": "Meadowbank General Practice",
+   "url": "/doctors/gp/meadowbank-general-practice/",
+   "address": "25 St Johns Road, Saint Johns, Auckland",
+   "lat": -36.8765486,
+   "lng": 174.826783
+ },
+ {
+   "name": "Meadowbank Medical Centre",
+   "url": "/doctors/gp/meadowbank-medical-centre/",
+   "address": "2 Blackett Crescent, Meadowbank, Auckland",
+   "lat": -36.873336,
+   "lng": 174.8288636
+ },
+ {
+   "name": "MEDPLUS",
+   "url": "/doctors/gp/medplus/",
+   "address": "MEDPLUS",
+   "lat": -36.7879229,
+   "lng": 174.7688207
+ },
+ {
+   "name": "Mens High Street Clinic",
+   "url": "/doctors/gp/mens-high-street-clinic/",
+   "address": "Level 3, 43 High Street, Auckland Central, Auckland",
+   "lat": -36.8480151,
+   "lng": 174.7662993
+ },
+ {
+   "name": "Milford Family Medical Centre",
+   "url": "/doctors/gp/milford-family-medical-centre/",
+   "address": "50 East Coast Road, Milford, Auckland",
+   "lat": -36.7690241,
+   "lng": 174.7588751
+ },
+ {
+   "name": "Milford Family Medical Centre",
+   "url": "/doctors/gp/milford-family-medical-centre/",
+   "address": "50 East Coast Road, Milford, Auckland",
+   "lat": -36.7690241,
+   "lng": 174.7588751
+ },
+ {
+   "name": "Millhouse Integrative Medical Centre",
+   "url": "/doctors/gp/millhouse-integrative-medical-centre/",
+   "address": "128 Millhouse Drive, Northpark, Auckland",
+   "lat": -36.9192991,
+   "lng": 174.9177442
+ },
+ {
+   "name": "Millwater Medical",
+   "url": "/doctors/gp/millwater-medical/",
+   "address": "175 Millwater Parkway, Silverdale",
+   "lat": -36.598218,
+   "lng": 174.6776877
+ },
+ {
+   "name": "Mission Bay Doctors",
+   "url": "/doctors/gp/mission-bay-doctors/",
+   "address": "10 Marau Crescent, Mission Bay, Auckland",
+   "lat": -36.8486095,
+   "lng": 174.8304257
+ },
+ {
+   "name": "Mt Albert Medical Centre",
+   "url": "/doctors/gp/mt-albert-medical-centre/",
+   "address": "986 New North Road, Mount Albert, Auckland",
+   "lat": -36.8856086,
+   "lng": 174.7142246
+ },
+ {
+   "name": "Mt Eden 575 Doctors",
+   "url": "/doctors/gp/mt-eden-575-doctors/",
+   "address": "575 Mount Eden Road, Mount Eden, Auckland",
+   "lat": -36.8872325,
+   "lng": 174.7600193
+ },
+ {
+   "name": "Mt Eden Medical Centre",
+   "url": "/doctors/gp/mt-eden-medical-centre/",
+   "address": "457 Mount Eden Road, Mount Eden, Auckland",
+   "lat": -36.8833408,
+   "lng": 174.7611331
+ },
+ {
+   "name": "Mt Eden Village Doctors",
+   "url": "/doctors/gp/mt-eden-village-doctors/",
+   "address": "431A Mount Eden Road, Mount Eden, Auckland",
+   "lat": -36.8818484,
+   "lng": 174.7619065
+ },
+ {
+   "name": "Mt Roskill Medical & Surgical Centre",
+   "url": "/doctors/gp/mt-roskill-medical-surgical-centre/",
+   "address": "Mt Roskill Medical & Surgical Centre",
+   "lat": -36.9132158,
+   "lng": 174.7279796
+ },
+ {
+   "name": "Mt Smart Medical Centre",
+   "url": "/doctors/gp/mt-smart-medical-centre/",
+   "address": "Mt Smart Medical Centre",
+   "lat": -36.914822,
+   "lng": 174.8013812
+ },
+ {
+   "name": "Mt Wellington Accident and Family Health Care",
+   "url": "/doctors/gp/mt-wellington-accident-and-family-health/",
+   "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
+   "lat": -36.92981838,
+   "lng": 174.8426485
+ },
+ {
+   "name": "Mt Wellington Family Health Centre",
+   "url": "/doctors/gp/mt-wellington-family-health-centre/",
+   "address": "283 Penrose Road, Mount Wellington, Auckland",
+   "lat": -36.9080291,
+   "lng": 174.8368786
+ },
+ {
+   "name": "Mt Wellington Medical Clinic",
+   "url": "/doctors/gp/mt-wellington-medical-clinic/",
+   "address": "350 Ellerslie-Panmure Highway, Mount Wellington, Auckland",
+   "lat": -36.8965955,
+   "lng": 174.8310446
+ },
+ {
+   "name": "My Doctor Limited",
+   "url": "/doctors/gp/my-doctor-limited/",
+   "address": "52 Gladstone Road, Parnell, Auckland",
+   "lat": -36.8533478,
+   "lng": 174.7863354
+ },
+ {
+   "name": "New Al-Dawa Medical Centre",
+   "url": "/doctors/gp/new-al-dawa-medical-centre/",
+   "address": "1230 Dominion Road, Mount Roskill, Auckland",
+   "lat": -36.9027872,
+   "lng": 174.7425741
+ },
+ {
+   "name": "New Windsor Medical Centre",
+   "url": "/doctors/gp/new-windsor-medical-centre/",
+   "address": "275 New Windsor Road, New Windsor, Auckland",
+   "lat": -36.91131584,
+   "lng": 174.7169307
+ },
+ {
+   "name": "Newmarket Medical Centre",
+   "url": "/doctors/gp/newmarket-medical-centre/",
+   "address": "197 Broadway, Newmarket, Auckland",
+   "lat": -36.8690779,
+   "lng": 174.7776076
+ },
+ {
+   "name": "Newton Medical Centre",
+   "url": "/doctors/gp/newton-medical-centre/",
+   "address": "353 Karangahape Road, Auckland Central, Auckland",
+   "lat": -36.8579574,
+   "lng": 174.7569832
+ },
+ {
+   "name": "Nile Road Medical Centre",
+   "url": "/doctors/gp/nile-road-medical-centre/",
+   "address": "1 Nile Rd, Milford, Auckland, 0620",
+   "lat": -36.7790508,
+   "lng": 174.7483252
+ },
+ {
+   "name": "North Harbour Medical Centre",
+   "url": "/doctors/gp/north-harbour-medical-centre/",
+   "address": "326 Sunset Road, Windsor Park, Auckland",
+   "lat": -36.7470136,
+   "lng": 174.7392494
+ },
+ {
+   "name": "Northcote Point Doctors",
+   "url": "/doctors/gp/northcote-point-doctors/",
+   "address": "73 Onewa Road, Northcote, Auckland",
+   "lat": -36.8104457,
+   "lng": 174.7417506
+ },
+ {
+   "name": "Onecare Health",
+   "url": "/doctors/gp/onecare-health/",
+   "address": "230 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.9705075,
+   "lng": 174.8620062
+ },
+ {
+   "name": "Onecare Health Otahuhu",
+   "url": "/doctors/gp/onecare-health-otahuhu/",
+   "address": "121 Church Street, Otahuhu, Auckland",
+   "lat": -36.9447479,
+   "lng": 174.8467972
+ },
+ {
+   "name": "Onecare Health Otahuhu",
+   "url": "/doctors/gp/onecare-health-otahuhu/",
+   "address": "121 Church Street, Otahuhu, Auckland",
+   "lat": -36.9447479,
+   "lng": 174.8467972
+ },
+ {
+   "name": "OneHealth General Practice & Urgent Care",
+   "url": "/doctors/gp/onehealth-general-practice-urgent-care/",
+   "address": "122 Remuera Road, Remuera, Auckland",
+   "lat": -36.8738338,
+   "lng": 174.7838921
+ },
+ {
+   "name": "Onehunga Accident & Medical Centre",
+   "url": "/doctors/gp/onehunga-accident-medical-centre/",
+   "address": "Onehunga Accident & Medical Centre",
+   "lat": -36.9233319,
+   "lng": 174.7836727
+ },
+ {
+   "name": "Onehunga Doctors Ltd",
+   "url": "/doctors/gp/onehunga-doctors-ltd/",
+   "address": "545 Richardson Road, Mount Roskill, Auckland",
+   "lat": -36.9191927,
+   "lng": 174.7342627
+ },
+ {
+   "name": "Onehunga Family Medical Centre",
+   "url": "/doctors/gp/onehunga-family-medical-centre/",
+   "address": "161 Onehunga Mall, Onehunga, Auckland",
+   "lat": -36.9235475,
+   "lng": 174.785642
+ },
+ {
+   "name": "Onehunga Medical Practice",
+   "url": "/doctors/gp/onehunga-medical-practice/",
+   "address": "147 Onehunga Mall, Onehunga, Auckland",
+   "lat": -36.9240829,
+   "lng": 174.7857299
+ },
+ {
+   "name": "Oneroa Accident & Medical Centre",
+   "url": "/doctors/gp/oneroa-accident-medical-centre/",
+   "address": "Oneroa Accident & Medical Centre",
+   "lat": -36.7836872,
+   "lng": 175.0110032
+ },
+ {
+   "name": "Onewa Doctors",
+   "url": "/doctors/gp/onewa-doctors/",
+   "address": "225 Onewa Road, Birkenhead, Auckland",
+   "lat": -36.8096548,
+   "lng": 174.7305366
+ },
+ {
+   "name": "Onewa Doctors",
+   "url": "/doctors/gp/onewa-doctors/",
+   "address": "225 Onewa Road, Birkenhead, Auckland",
+   "lat": -36.8096548,
+   "lng": 174.7305366
+ },
+ {
+   "name": "Orakei Health Services - General Practice",
+   "url": "/doctors/gp/orakei-health-services-general-practice/",
+   "address": "25/215 Kepa Road, Mission Bay, Auckland",
+   "lat": -36.8606817,
+   "lng": 174.8296432
+ },
+ {
+   "name": "Orere Point Health Clinic",
+   "url": "/doctors/gp/orere-point-health-clinic/",
+   "address": "Orere Point Road, Orere Point",
+   "lat": -36.9591612,
+   "lng": 175.2434505
+ },
+ {
+   "name": "Orere Point Health Clinic",
+   "url": "/doctors/gp/orere-point-health-clinic/",
+   "address": "Orere Point Road, Orere Point",
+   "lat": -36.9591612,
+   "lng": 175.2434505
+ },
+ {
+   "name": "Orewa Medical Centre",
+   "url": "/doctors/gp/orewa-medical-centre/",
+   "address": "8d Tamariki Avenue, Orewa",
+   "lat": -36.587997,
+   "lng": 174.695168
+ },
+ {
+   "name": "Orewa Medical Centre",
+   "url": "/doctors/gp/orewa-medical-centre/",
+   "address": "8d Tamariki Avenue, Orewa",
+   "lat": -36.587997,
+   "lng": 174.695168
+ },
+ {
+   "name": "Ostend Medical Centre",
+   "url": "/doctors/gp/ostend-medical-centre-1/",
+   "address": "Ostend Medical Centre",
+   "lat": -36.7961076,
+   "lng": 175.0449138
+ },
+ {
+   "name": "Otahuhu College Health & Wellness Centre",
+   "url": "/doctors/gp/otahuhu-college-health-wellness-centre/",
+   "address": "74-78 Mangere Road, Otahuhu, Auckland",
+   "lat": -36.9518343,
+   "lng": 174.8393247
+ },
+ {
+   "name": "Otahuhu College Health & Wellness Centre",
+   "url": "/doctors/gp/otahuhu-college-health-wellness-centre/",
+   "address": "74-78 Mangere Road, Otahuhu, Auckland",
+   "lat": -36.9518343,
+   "lng": 174.8393247
+ },
+ {
+   "name": "Otahuhu College Health & Wellness Centre",
+   "url": "/doctors/gp/otahuhu-college-health-wellness-centre/",
+   "address": "74-78 Mangere Road, Otahuhu, Auckland",
+   "lat": -36.9518343,
+   "lng": 174.8393247
+ },
+ {
+   "name": "Otahuhu Family Doctors",
+   "url": "/doctors/gp/otahuhu-family-doctors/",
+   "address": "29 Mason Avenue, Otahuhu, Auckland",
+   "lat": -36.9441016,
+   "lng": 174.8405917
+ },
+ {
+   "name": "Otahuhu Family Doctors",
+   "url": "/doctors/gp/otahuhu-family-doctors/",
+   "address": "29 Mason Avenue, Otahuhu, Auckland",
+   "lat": -36.9441016,
+   "lng": 174.8405917
+ },
+ {
+   "name": "Otahuhu Family Medical Centre",
+   "url": "/doctors/gp/otahuhu-family-medical-centre/",
+   "address": "3/507 Great South Road, Otahuhu, Auckland",
+   "lat": -36.9340876,
+   "lng": 174.8515804
+ },
+ {
+   "name": "Otahuhu Family Medical Centre",
+   "url": "/doctors/gp/otahuhu-family-medical-centre/",
+   "address": "3/507 Great South Road, Otahuhu, Auckland",
+   "lat": -36.9340876,
+   "lng": 174.8515804
+ },
+ {
+   "name": "Otahuhu Family Practice",
+   "url": "/doctors/gp/otahuhu-family-practice/",
+   "address": "115 Church Street, Otahuhu, Auckland",
+   "lat": -36.9444107,
+   "lng": 174.8467297
+ },
+ {
+   "name": "Otahuhu Family Practice",
+   "url": "/doctors/gp/otahuhu-family-practice/",
+   "address": "115 Church Street, Otahuhu, Auckland",
+   "lat": -36.9444107,
+   "lng": 174.8467297
+ },
+ {
+   "name": "Otahuhu Family Practice",
+   "url": "/doctors/gp/otahuhu-family-practice/",
+   "address": "115 Church Street, Otahuhu, Auckland",
+   "lat": -36.9444107,
+   "lng": 174.8467297
+ },
+ {
+   "name": "Otahuhu Health Centre",
+   "url": "/doctors/gp/otahuhu-health-centre/",
+   "address": "3/507 Great South Road, Otahuhu, Auckland",
+   "lat": -36.9470557,
+   "lng": 174.8452452
+ },
+ {
+   "name": "Otahuhu Medical Clinic",
+   "url": "/doctors/gp/otahuhu-medical-clinic/",
+   "address": "463 Great South Road, Otahuhu, Auckland",
+   "lat": -36.9457784,
+   "lng": 174.8447281
+ },
+ {
+   "name": "Otahuhu Medical Clinic",
+   "url": "/doctors/gp/otahuhu-medical-clinic/",
+   "address": "463 Great South Road, Otahuhu, Auckland",
+   "lat": -36.9457784,
+   "lng": 174.8447281
+ },
+ {
+   "name": "Otara Family and Christian Health Centre",
+   "url": "/doctors/gp/otara-family-and-christian-health-centre/",
+   "address": "120 East Tamaki Road, Otara, Auckland",
+   "lat": -36.9620625,
+   "lng": 174.8731993
+ },
+ {
+   "name": "Otara Family and Christian Health Centre",
+   "url": "/doctors/gp/otara-family-and-christian-health-centre/",
+   "address": "120 East Tamaki Road, Otara, Auckland",
+   "lat": -36.9620625,
+   "lng": 174.8731993
+ },
+ {
+   "name": "Otara Union Health",
+   "url": "/doctors/gp/otara-union-health/",
+   "address": "100 Alexander Crescent, Otara, Auckland",
+   "lat": -36.9586605,
+   "lng": 174.8744241
+ },
+ {
+   "name": "Otara Union Health",
+   "url": "/doctors/gp/otara-union-health/",
+   "address": "100 Alexander Crescent, Otara, Auckland",
+   "lat": -36.9586605,
+   "lng": 174.8744241
+ },
+ {
+   "name": "Pakuranga Medical Centre",
+   "url": "/doctors/gp/pakuranga-medical-centre-1/",
+   "address": "17 William Roberts Road, Pakuranga, Auckland",
+   "lat": -36.9126158,
+   "lng": 174.8736784
+ },
+ {
+   "name": "Pakuranga Medical Centre",
+   "url": "/doctors/gp/pakuranga-medical-centre-1/",
+   "address": "17 William Roberts Road, Pakuranga, Auckland",
+   "lat": -36.9126158,
+   "lng": 174.8736784
+ },
+ {
+   "name": "Palomino Medical Centre",
+   "url": "/doctors/gp/palomino-medical-centre/",
+   "address": "138 Sturges Road, Henderson, Auckland",
+   "lat": -36.8830215,
+   "lng": 174.6152324
+ },
+ {
+   "name": "Panmure Medical Centre",
+   "url": "/doctors/gp/panmure-medical-centre/",
+   "address": "204 Queens Road, Panmure, Auckland",
+   "lat": -36.9009175,
+   "lng": 174.8574874
+ },
+ {
+   "name": "Panmure Surgery",
+   "url": "/doctors/gp/panmure-surgery-1/",
+   "address": "Panmure Surgery",
+   "lat": -36.900868,
+   "lng": 174.8572212
+ },
+ {
+   "name": "Papakura East Medical Centre",
+   "url": "/doctors/gp/papakura-east-medical-centre/",
+   "address": "72 Clevedon Road, Papakura",
+   "lat": -37.0585098,
+   "lng": 174.9530349
+ },
+ {
+   "name": "Papakura Family Health Centre",
+   "url": "/doctors/gp/papakura-family-health-centre/",
+   "address": "343 Great South Road, Papakura",
+   "lat": -37.0688034,
+   "lng": 174.9429326
+ },
+ {
+   "name": "Papakura Family Medical Practice",
+   "url": "/doctors/gp/papakura-family-medical-practice/",
+   "address": "Corner of Elliot Street & Rushgreen Avenue, Pahurehure, Papakura",
+   "lat": -37.0675897,
+   "lng": 174.9312409
+ },
+ {
+   "name": "Papakura Family Medicine Clinic Ltd",
+   "url": "/doctors/gp/papakura-family-medicine-clinic-ltd/",
+   "address": "74 Great South Road, Papakura",
+   "lat": -37.0569407,
+   "lng": 174.9394673
+ },
+ {
+   "name": "Papakura Marae Health Clinic",
+   "url": "/doctors/gp/papakura-marae-health-clinic/",
+   "address": "29 Hunua Road, Papakura",
+   "lat": -37.0702084,
+   "lng": 174.9591668
+ },
+ {
+   "name": "Papakura Marae Health Clinic",
+   "url": "/doctors/gp/papakura-marae-health-clinic/",
+   "address": "29 Hunua Road, Papakura",
+   "lat": -37.0702084,
+   "lng": 174.9591668
+ },
+ {
+   "name": "Papatoetoe Accident & Medical Centre",
+   "url": "/doctors/gp/papatoetoe-accident-medical-centre/",
+   "address": "28 Hoteo Avenue, Papatoetoe, Auckland",
+   "lat": -36.9696948,
+   "lng": 174.8627224
+ },
+ {
+   "name": "Papatoetoe Family Doctors",
+   "url": "/doctors/gp/papatoetoe-family-doctors/",
+   "address": "15 Kolmar Road, Papatoetoe, Auckland",
+   "lat": -36.9790483,
+   "lng": 174.8546879
+ },
+ {
+   "name": "Papatoetoe Family Doctors",
+   "url": "/doctors/gp/papatoetoe-family-doctors/",
+   "address": "15 Kolmar Road, Papatoetoe, Auckland",
+   "lat": -36.9790483,
+   "lng": 174.8546879
+ },
+ {
+   "name": "Papatoetoe Medical Centre",
+   "url": "/doctors/gp/papatoetoe-medical-centre/",
+   "address": "111 St George Street, Papatoetoe, Auckland",
+   "lat": -36.9797129,
+   "lng": 174.8556742
+ },
+ {
+   "name": "Papatoetoe South Medical Centre",
+   "url": "/doctors/gp/papatoetoe-south-medical-centre/",
+   "address": "580 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.951755,
+   "lng": 174.8456764
+ },
+ {
+   "name": "Papatoetoe South Medical Centre",
+   "url": "/doctors/gp/papatoetoe-south-medical-centre/",
+   "address": "580 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.951755,
+   "lng": 174.8456764
+ },
+ {
+   "name": "Parnell Family Doctor",
+   "url": "/doctors/gp/parnell-family-doctor-1/",
+   "address": "Parnell Family Doctor",
+   "lat": -36.8593678,
+   "lng": 174.7819501
+ },
+ {
+   "name": "Parnell GP Clinic",
+   "url": "/doctors/gp/parnell-gp-clinic/",
+   "address": "14 Fox Street, Parnell, Auckland",
+   "lat": -36.8506393,
+   "lng": 174.7789996
+ },
+ {
+   "name": "Parnell Medical Centre",
+   "url": "/doctors/gp/parnell-medical-centre/",
+   "address": "82B Gladstone Road, Parnell, Auckland",
+   "lat": -36.8523073,
+   "lng": 174.786078
+ },
+ {
+   "name": "Peninsula Medical Centre",
+   "url": "/doctors/gp/peninsula-medical-centre/",
+   "address": "Peninsula Medical Centre",
+   "lat": -36.839005,
+   "lng": 174.651602
+ },
+ {
+   "name": "Penrose Clinic",
+   "url": "/doctors/gp/penrose-clinic/",
+   "address": "766 Great South Road, Penrose, Auckland",
+   "lat": -36.9103373,
+   "lng": 174.8169556
+ },
+ {
+   "name": "Picton Surgery",
+   "url": "/doctors/gp/picton-surgery/",
+   "address": "2 Fencible Drive, Howick, Auckland",
+   "lat": -36.895417,
+   "lng": 174.9313622
+ },
+ {
+   "name": "Piritahi Hau Ora Trust General Practice",
+   "url": "/doctors/gp/piritahi-hau-ora-trust-general-practice/",
+   "address": "Piritahi Hau Ora Trust",
+   "lat": -36.789162,
+   "lng": 175.0090352
+ },
+ {
+   "name": "Pogson Health Services Ltd",
+   "url": "/doctors/gp/pogson-health-services-ltd/",
+   "address": "88 Jervois Road, Ponsonby, Auckland",
+   "lat": -36.8456038,
+   "lng": 174.7407936
+ },
+ {
+   "name": "Point Chevalier Medical & Surgical Centre",
+   "url": "/doctors/gp/point-chevalier-medical-surgical-centre/",
+   "address": "1181 Great North Road, Point Chevalier, Auckland",
+   "lat": -36.8699814,
+   "lng": 174.7109122
+ },
+ {
+   "name": "Ponsonby Medical Centre",
+   "url": "/doctors/gp/ponsonby-medical-centre/",
+   "address": "1 Vermont Street, Ponsonby, Auckland",
+   "lat": -36.8529933,
+   "lng": 174.7452462
+ },
+ {
+   "name": "Puhinui Medical Centre",
+   "url": "/doctors/gp/puhinui-medical-centre/",
+   "address": "149 Puhinui Road, Papatoetoe, Auckland",
+   "lat": -36.9870803,
+   "lng": 174.8606351
+ },
+ {
+   "name": "Puhinui Medical Centre",
+   "url": "/doctors/gp/puhinui-medical-centre/",
+   "address": "149 Puhinui Road, Papatoetoe, Auckland",
+   "lat": -36.9870803,
+   "lng": 174.8606351
+ },
+ {
+   "name": "Pukekohe Family Doctors",
+   "url": "/doctors/gp/pukekohe-family-doctors-1/",
+   "address": "Pukekohe Family Doctors",
+   "lat": -37.20755,
+   "lng": 174.909102
+ },
+ {
+   "name": "Pukekohe Family Health Care",
+   "url": "/doctors/gp/pukekohe-family-health-care/",
+   "address": " 10 West St, Pukekohe, 2120",
+   "lat": -37.2010956,
+   "lng": 174.8982699
+ },
+ {
+   "name": "Pukekohe Family Health Care",
+   "url": "/doctors/gp/pukekohe-family-health-care/",
+   "address": "41-49 Twomey Drive, Pukekohe, 2120",
+   "lat": -37.1868815,
+   "lng": 174.9199813
+ },
+ {
+   "name": "Pukekohe Family Health Care - Accident & Medical",
+   "url": "/doctors/gp/pukekohe-family-health-care-accident-medical/",
+   "address": "10 West Street, Pukekohe",
+   "lat": -37.2010956,
+   "lng": 174.9004586
+ },
+ {
+   "name": "Pukekohe South Doctors",
+   "url": "/doctors/gp/pukekohe-south-doctors/",
+   "address": "241 Manukau Road, Pukekohe",
+   "lat": -37.2143371,
+   "lng": 174.9100736
+ },
+ {
+   "name": "QuayMed Accident and Medical",
+   "url": "/doctors/gp/quaymed-accident-and-medical/",
+   "address": "Quay Park Health Building",
+   "lat": -36.847517,
+   "lng": 174.7744872
+ },
+ {
+   "name": "Queen Street Doctors",
+   "url": "/doctors/gp/queen-street-doctors/",
+   "address": "87 Queen Street, Auckland Central, Auckland",
+   "lat": -36.8456216,
+   "lng": 174.7661584
+ },
+ {
+   "name": "Queen Street Medical Centre",
+   "url": "/doctors/gp/queen-street-medical-centre/",
+   "address": "31 Queen Street, Otahuhu, Auckland",
+   "lat": -36.9462635,
+   "lng": 174.8442345
+ },
+ {
+   "name": "Queen Street Medical Centre",
+   "url": "/doctors/gp/queen-street-medical-centre/",
+   "address": "31 Queen Street, Otahuhu, Auckland",
+   "lat": -36.9462635,
+   "lng": 174.8442345
+ },
+ {
+   "name": "Queen Street Medical Centre",
+   "url": "/doctors/gp/queen-street-medical-centre/",
+   "address": "31 Queen Street, Otahuhu, Auckland",
+   "lat": -36.9462635,
+   "lng": 174.8442345
+ },
+ {
+   "name": "Ranfurly Medical Centre",
+   "url": "/doctors/gp/ranfurly-medical-centre/",
+   "address": "235 Manukau Road, Epsom, Auckland",
+   "lat": -36.8847688,
+   "lng": 174.7753021
+ },
+ {
+   "name": "Rangitoto Medical Ltd",
+   "url": "/doctors/gp/rangitoto-medical-ltd/",
+   "address": "4 Rangitoto Road, Papatoetoe, Auckland",
+   "lat": -36.9796011,
+   "lng": 174.8520155
+ },
+ {
+   "name": "Raphael Medical Therapy Centre",
+   "url": "/doctors/gp/raphael-medical-therapy-centre/",
+   "address": "11 Woodford Road, Mount Eden, Auckland",
+   "lat": -36.8781605,
+   "lng": 174.7543771
+ },
+ {
+   "name": "Ratanui Medical Centre",
+   "url": "/doctors/gp/ratanui-medical-centre/",
+   "address": "Ratanui Medical Centre",
+   "lat": -36.8612396,
+   "lng": 174.6294401
+ },
+ {
+   "name": "Rathgar Medical & Surgical Centre",
+   "url": "/doctors/gp/rathgar-medical-surgical-centre/",
+   "address": "132A Rathgar Road, Henderson, Auckland",
+   "lat": -36.8617109,
+   "lng": 174.6214009
+ },
+ {
+   "name": "Raukura Hauora O Tainui - Trust Health Care",
+   "url": "/doctors/gp/raukura-hauora-o-tainui-trust-health-care/",
+   "address": "7 Hill Road, Manurewa, Auckland",
+   "lat": -37.0204997,
+   "lng": 174.8971001
+ },
+ {
+   "name": "Remuera Doctors Ltd.",
+   "url": "/doctors/gp/remuera-doctors-ltd/",
+   "address": "320 Remuera Road, Remuera, Auckland",
+   "lat": -36.8803576,
+   "lng": 174.7964725
+ },
+ {
+   "name": "Remuera Medical Centre",
+   "url": "/doctors/gp/remuera-medical-centre/",
+   "address": "377 Remuera Road, Remuera, Auckland",
+   "lat": -36.8807607,
+   "lng": 174.7980283
+ },
+ {
+   "name": "Remuera Village Medical Centre",
+   "url": "/doctors/gp/remuera-village-medical-centre/",
+   "address": "597 Remuera Road, Remuera, Auckland",
+   "lat": -36.8803551,
+   "lng": 174.8127083
+ },
+ {
+   "name": "Richmond Road Medical Centre",
+   "url": "/doctors/gp/richmond-road-medical-centre/",
+   "address": "452 Richmond Road, Grey Lynn, Auckland",
+   "lat": -36.8588647,
+   "lng": 174.7316243
+ },
+ {
+   "name": "Rosebank Road Medical Services Ltd.",
+   "url": "/doctors/gp/rosebank-road-medical-services-ltd/",
+   "address": "65 Rosebank Road, Avondale, Auckland",
+   "lat": -36.8943862,
+   "lng": 174.6968208
+ },
+ {
+   "name": "Rosehill Christian Medical Centre",
+   "url": "/doctors/gp/rosehill-christian-medical-centre/",
+   "address": "2-4 Tairere Crescent, Rosehill, Papakura",
+   "lat": -37.0798348,
+   "lng": 174.9369202
+ },
+ {
+   "name": "Rosehill Christian Medical Centre",
+   "url": "/doctors/gp/rosehill-christian-medical-centre/",
+   "address": "2-4 Tairere Crescent, Rosehill, Papakura",
+   "lat": -37.0798348,
+   "lng": 174.9369202
+ },
+ {
+   "name": "Roselands Doctors",
+   "url": "/doctors/gp/roselands-doctors/",
+   "address": "13 O'Shannessey Street, Papakura",
+   "lat": -37.0596396,
+   "lng": 174.941752
+ },
+ {
+   "name": "Royal Heights Medical Centre",
+   "url": "/doctors/gp/royal-heights-medical-centre/",
+   "address": "138 Royal Road, Massey, Auckland",
+   "lat": -36.8312484,
+   "lng": 174.6060709
+ },
+ {
+   "name": "Royal Oak Medical Centre",
+   "url": "/doctors/gp/royal-oak-medical-centre/",
+   "address": "Royal Oak Mall",
+   "lat": -36.9104783,
+   "lng": 174.7748191
+ },
+ {
+   "name": "Sandhu Doctors Ltd",
+   "url": "/doctors/gp/sandhu-doctors-ltd/",
+   "address": "488 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.977737,
+   "lng": 174.8715908
+ },
+ {
+   "name": "Sandhu Doctors Ltd",
+   "url": "/doctors/gp/sandhu-doctors-ltd/",
+   "address": "488 Great South Road, Papatoetoe, Auckland",
+   "lat": -36.977737,
+   "lng": 174.8715908
+ },
+ {
+   "name": "Seddon Medical",
+   "url": "/doctors/gp/seddon-medical/",
+   "address": "13A Hall Street, Pukekohe",
+   "lat": -37.1994762,
+   "lng": 174.9058724
+ },
+ {
+   "name": "Selwyn House Medical Centre",
+   "url": "/doctors/gp/selwyn-house-medical-centre/",
+   "address": "46 Wellington Street, Howick, Auckland",
+   "lat": -36.8946147,
+   "lng": 174.9297545
+ },
+ {
+   "name": "Selwyn Medical Centre",
+   "url": "/doctors/gp/selwyn-medical-centre/",
+   "address": "307 Kepa Road, Mission Bay, Auckland",
+   "lat": -36.8604569,
+   "lng": 174.8367942
+ },
+ {
+   "name": "Selwyn Village Medical Centre",
+   "url": "/doctors/gp/selwyn-village-medical-centre/",
+   "address": "21 Shaftesbury Avenue, Point Chevalier, Auckland",
+   "lat": -36.8649266,
+   "lng": 174.6995198
+ },
+ {
+   "name": "Shorecare - Northcross",
+   "url": "/doctors/gp/shorecare-northcross/",
+   "address": "948 East Coast Road, Northcross, Auckland",
+   "lat": -36.70924803,
+   "lng": 174.7271365
+ },
+ {
+   "name": "Shorecare - Takapuna",
+   "url": "/doctors/gp/shorecare-takapuna/",
+   "address": "Smales Farm Technology Office Park - Takapuna",
+   "lat": -36.7879229,
+   "lng": 174.7688207
+ },
+ {
+   "name": "Silver Fern Medical Centre",
+   "url": "/doctors/gp/silver-fern-medical-centre/",
+   "address": "The Triangle, Waimauku",
+   "lat": -36.7666421,
+   "lng": 174.4952682
+ },
+ {
+   "name": "Silverdale Medical",
+   "url": "/doctors/gp/silverdale-medical/",
+   "address": "Silverdale Medical Centre",
+   "lat": -36.6136183,
+   "lng": 174.6834051
+ },
+ {
+   "name": "Snells Beach Medical Centre",
+   "url": "/doctors/gp/snells-beach-medical-centre-1/",
+   "address": "Dalton Road, Snells Beach",
+   "lat": -36.4236026,
+   "lng": 174.7300141
+ },
+ {
+   "name": "Sommerville Surgery",
+   "url": "/doctors/gp/sommerville-surgery/",
+   "address": "Sommerville Surgery",
+   "lat": -36.9126333,
+   "lng": 174.9293587
+ },
+ {
+   "name": "Sommerville Surgery",
+   "url": "/doctors/gp/sommerville-surgery/",
+   "address": "Sommerville Surgery",
+   "lat": -36.9126333,
+   "lng": 174.9293587
+ },
+ {
+   "name": "South Auckland Chinese Medical Centre",
+   "url": "/doctors/gp/south-auckland-chinese-medical-centre/",
+   "address": "271A Great South Road, Otahuhu, Auckland",
+   "lat": -36.9416536,
+   "lng": 174.8412644
+ },
+ {
+   "name": "South Seas Healthcare",
+   "url": "/doctors/gp/south-seas-healthcare/",
+   "address": "Fair Mall, Otara",
+   "lat": -36.960653,
+   "lng": 174.8733198
+ },
+ {
+   "name": "South Seas Healthcare",
+   "url": "/doctors/gp/south-seas-healthcare/",
+   "address": "Fair Mall, Otara",
+   "lat": -36.960653,
+   "lng": 174.8733198
+ },
+ {
+   "name": "Southpoint Family Doctors",
+   "url": "/doctors/gp/southpoint-family-doctors/",
+   "address": "652 Great South Road, Manukau, Auckland",
+   "lat": -36.9941017,
+   "lng": 174.87266
+ },
+ {
+   "name": "St Heliers Health Centre",
+   "url": "/doctors/gp/st-heliers-health-centre/",
+   "address": "9B Polygon Road, St Heliers, Auckland",
+   "lat": -36.8518205,
+   "lng": 174.8573554
+ },
+ {
+   "name": "St Heliers Medical Centre",
+   "url": "/doctors/gp/st-heliers-medical-centre/",
+   "address": "Pimlico Building, St Heliers",
+   "lat": -36.8503737,
+   "lng": 174.8586296
+ },
+ {
+   "name": "St Lukes Medical Centre",
+   "url": "/doctors/gp/st-lukes-medical-centre/",
+   "address": "99 St Lukes Road, Sandringham, Auckland",
+   "lat": -36.8850218,
+   "lng": 174.7357037
+ },
+ {
+   "name": "Stoddard Road Medical Centre",
+   "url": "/doctors/gp/stoddard-road-medical-centre/",
+   "address": "223 Stoddard Road, Mount Roskill, Auckland",
+   "lat": -36.9000168,
+   "lng": 174.7210406
+ },
+ {
+   "name": "Stonefields Medical Centre",
+   "url": "/doctors/gp/stonefields-medical-centre/",
+   "address": "40 Stonefields Avenue, Auckland",
+   "lat": -36.8867854,
+   "lng": 174.8448283
+ },
+ {
+   "name": "Sunnynook Medical Centre Ltd",
+   "url": "/doctors/gp/sunnynook-medical-centre-ltd/",
+   "address": "119 Sunnynook Road, Forrest Hill, Auckland",
+   "lat": -36.7604783,
+   "lng": 174.7406581
+ },
+ {
+   "name": "Sunset Road Family Doctors",
+   "url": "/doctors/gp/sunset-road-family-doctors/",
+   "address": "317 Sunset Road, Mairangi Bay",
+   "lat": -36.747317,
+   "lng": 174.7395994
+ },
+ {
+   "name": "Surrey Medical Centre",
+   "url": "/doctors/gp/surrey-medical-centre/",
+   "address": "26 Surrey Crescent, Grey Lynn, Auckland",
+   "lat": -36.8636713,
+   "lng": 174.7368339
+ },
+ {
+   "name": "Swanson Medical Centre",
+   "url": "/doctors/gp/swanson-medical-centre/",
+   "address": "714 Swanson Road, Swanson, Auckland",
+   "lat": -36.8660651,
+   "lng": 174.5793061
+ },
+ {
+   "name": "Symonds Street Medical Centre",
+   "url": "/doctors/gp/symonds-street-medical-centre/",
+   "address": "57 Symonds Street, Grafton, Auckland",
+   "lat": -36.8565593,
+   "lng": 174.7650984
+ },
+ {
+   "name": "T.L. Care",
+   "url": "/doctors/gp/tl-care/",
+   "address": "296 Te Atatu Road, Te Atatu South, Auckland",
+   "lat": -36.8623651,
+   "lng": 174.6487878
+ },
+ {
+   "name": "Takanini Family Health Care",
+   "url": "/doctors/gp/takanini-family-health-care/",
+   "address": "106 Great South Road, Takanini",
+   "lat": -37.0393866,
+   "lng": 174.9146337
+ },
+ {
+   "name": "Takanini Urgent Care",
+   "url": "/doctors/gp/takanini-urgent-care/",
+   "address": "106 Great South Road, Takanini",
+   "lat": -37.0393866,
+   "lng": 174.9146337
+ },
+ {
+   "name": "Takapuna Healthcare",
+   "url": "/doctors/gp/takapuna-healthcare/",
+   "address": "25 Bracken Avenue, Takapuna, Auckland",
+   "lat": -36.7919068,
+   "lng": 174.7712171
+ },
+ {
+   "name": "Takapuna Healthcare",
+   "url": "/doctors/gp/takapuna-healthcare/",
+   "address": "25 Bracken Avenue, Takapuna, Auckland",
+   "lat": -36.7919068,
+   "lng": 174.7712171
+ },
+ {
+   "name": "Tamaki Family Health Centre",
+   "url": "/doctors/gp/tamaki-family-health-centre/",
+   "address": "2-4 Clifton Court, Panmure, Auckland",
+   "lat": -36.8988482,
+   "lng": 174.8537894
+ },
+ {
+   "name": "Te Atatu South Medical Centre",
+   "url": "/doctors/gp/te-atatu-south-medical-centre/",
+   "address": "259 Te Atatu Road, Te Atatu South, Auckland",
+   "lat": -36.8634879,
+   "lng": 174.6488331
+ },
+ {
+   "name": "Te Manu Aute Whare Oranga",
+   "url": "/doctors/gp/te-manu-aute-whare-oranga/",
+   "address": "81 Finlayson Avenue, Clendon Park, Auckland",
+   "lat": -37.0252237,
+   "lng": 174.8572953
+ },
+ {
+   "name": "Te Puna Hauora o te Raki Paewhenua - Health & Social Services",
+   "url": "/doctors/gp/te-puna-hauora-o-te-raki-paewhenua-health/",
+   "address": "58A Akoranga Drive, Auckland, 0627",
+   "lat": -36.7950117,
+   "lng": 174.7537627
+ },
+ {
+   "name": "Te Puna Hauora o te Raki Paewhenua - Health & Social Services",
+   "url": "/doctors/gp/te-puna-hauora-o-te-raki-paewhenua-health/",
+   "address": "166 Birkdale Road, Birkdale, Auckland, 0626",
+   "lat": -36.7979448,
+   "lng": 174.6983852
+ },
+ {
+   "name": "The Calder Centre",
+   "url": "/doctors/gp/the-calder-centre/",
+   "address": "136 Hobson Street, Auckland Central, Auckland",
+   "lat": -36.8506858,
+   "lng": 174.7608284
+ },
+ {
+   "name": "The Doctors Golf Road",
+   "url": "/doctors/gp/the-doctors-golf-road/",
+   "address": "168 Golf Road, Titirangi, Auckland",
+   "lat": -36.9263719,
+   "lng": 174.6713174
+ },
+ {
+   "name": "The Doctors, New Lynn",
+   "url": "/doctors/gp/the-doctors-new-lynn/",
+   "address": "The Doctors, New Lynn",
+   "lat": -36.9048545,
+   "lng": 174.6844513
+ },
+ {
+   "name": "The Doctors, Ti Rakau",
+   "url": "/doctors/gp/the-doctors-ti-rakau/",
+   "address": "316 Ti Rakau Drive, Burswood, Auckland",
+   "lat": -36.9265863,
+   "lng": 174.8978581
+ },
+ {
+   "name": "The Family Practice",
+   "url": "/doctors/gp/the-family-practice/",
+   "address": "215 Bleakhouse Road, Mellons Bay, Auckland",
+   "lat": -36.8809283,
+   "lng": 174.9257884
+ },
+ {
+   "name": "The Fono - Central",
+   "url": "/doctors/gp/the-fono-central/",
+   "address": "33 Wyndham Street, Auckland Central, Auckland",
+   "lat": -36.8466811,
+   "lng": 174.7638419
+ },
+ {
+   "name": "The Fono - South",
+   "url": "/doctors/gp/the-fono-south/",
+   "address": "7 Halver Road, Manurewa, Auckland",
+   "lat": -37.0221065,
+   "lng": 174.8986106
+ },
+ {
+   "name": "The Fono - West",
+   "url": "/doctors/gp/the-fono-west/",
+   "address": "411 Great North Road, Henderson, Auckland",
+   "lat": -36.8893801,
+   "lng": 174.6973938
+ },
+ {
+   "name": "The Fono - West Central",
+   "url": "/doctors/gp/the-fono-west-central/",
+   "address": "297 Blockhouse Bay Road, Avondale, Auckland",
+   "lat": -36.9082507,
+   "lng": 174.7014468
+ },
+ {
+   "name": "The Fono - West Central",
+   "url": "/doctors/gp/the-fono-west-central/",
+   "address": "297 Blockhouse Bay Road, Avondale, Auckland",
+   "lat": -36.9082507,
+   "lng": 174.7014468
+ },
+ {
+   "name": "The Puhinui Doctors",
+   "url": "/doctors/gp/the-puhinui-doctors/",
+   "address": "258 Puhinui Road, Papatoetoe, Auckland",
+   "lat": -36.9909881,
+   "lng": 174.8512103
+ },
+ {
+   "name": "The Wood Street Doctors",
+   "url": "/doctors/gp/the-wood-street-doctors/",
+   "address": "48 Wood Street, Papakura",
+   "lat": -37.0648079,
+   "lng": 174.9415198
+ },
+ {
+   "name": "Three Kings Accident & Medical",
+   "url": "/doctors/gp/three-kings-accident-medical/",
+   "address": "536 Mount Albert Road, Three Kings, Auckland",
+   "lat": -36.9087734,
+   "lng": 174.7553448
+ },
+ {
+   "name": "Three Kings Family Medical Centre",
+   "url": "/doctors/gp/three-kings-family-medical-centre/",
+   "address": "535 Mount Albert Road, Three Kings, Auckland",
+   "lat": -36.9094767,
+   "lng": 174.7579768
+ },
+ {
+   "name": "Tiakina Te Ora",
+   "url": "/doctors/gp/tiakina-te-ora/",
+   "address": "Tiakina Te Ora",
+   "lat": -37.0615994,
+   "lng": 174.9396054
+ },
+ {
+   "name": "Tiakina Te Ora",
+   "url": "/doctors/gp/tiakina-te-ora/",
+   "address": "Tiakina Te Ora",
+   "lat": -37.0615994,
+   "lng": 174.9396054
+ },
+ {
+   "name": "Titirangi Medical Centre Ltd.",
+   "url": "/doctors/gp/titirangi-medical-centre-ltd/",
+   "address": "2 Rangiwai Road, Titirangi, Auckland",
+   "lat": -36.93829,
+   "lng": 174.6583294
+ },
+ {
+   "name": "Torbay Community Doctors",
+   "url": "/doctors/gp/torbay-community-doctors/",
+   "address": "987 Beach Road, Torbay, Auckland",
+   "lat": -36.6943784,
+   "lng": 174.7508016
+ },
+ {
+   "name": "Torbay Health (Torbay Medical Centre, Torbay Skin Clinic)",
+   "url": "/doctors/gp/torbay-health-torbay-medical-centre-torbay/",
+   "address": "Torbay Health",
+   "lat": -36.6953635,
+   "lng": 174.751502
+ },
+ {
+   "name": "Travel Clinic North Shore",
+   "url": "/doctors/gp/travel-clinic-north-shore/",
+   "address": "101 Apollo Drive, Rosedale, Auckland",
+   "lat": -36.7367489,
+   "lng": 174.7278621
+ },
+ {
+   "name": "Travel Clinic North Shore",
+   "url": "/doctors/gp/travel-clinic-north-shore/",
+   "address": "101 Apollo Drive, Rosedale, Auckland",
+   "lat": -36.7367489,
+   "lng": 174.7278621
+ },
+ {
+   "name": "Tuakau Health Centre Ltd",
+   "url": "/doctors/gp/tuakau-health-centre-ltd/",
+   "address": "55 George Street, Tuakau",
+   "lat": -37.2605669,
+   "lng": 174.9462195
+ },
+ {
+   "name": "Turuki Health Care",
+   "url": "/doctors/gp/turuki-health-care/",
+   "address": "Turuki Health Care, Mangere",
+   "lat": -36.9720997,
+   "lng": 174.8035093
+ },
+ {
+   "name": "Turuki Health Care",
+   "url": "/doctors/gp/turuki-health-care/",
+   "address": "Turuki Health Care, Mangere",
+   "lat": -36.9720997,
+   "lng": 174.8035093
+ },
+ {
+   "name": "Turuki Health Care - Panmure",
+   "url": "/doctors/gp/turuki-health-care-panmure/",
+   "address": "62 Queens Road, Panmure",
+   "lat": -36.8993291,
+   "lng": 174.8536549
+ },
+ {
+   "name": "Unitec Student Health",
+   "url": "/doctors/gp/unitec-student-health/",
+   "address": "Unitec, Mt Albert",
+   "lat": -36.87681053,
+   "lng": 174.7070146
+ },
+ {
+   "name": "University Health & Counselling Service",
+   "url": "/doctors/gp/university-health-counselling-service/",
+   "address": "2 Alfred Street, Auckland, 1010",
+   "lat": -36.8518115,
+   "lng": 174.7672474
+ },
+ {
+   "name": "University Health & Counselling Service",
+   "url": "/doctors/gp/university-health-counselling-service/",
+   "address": "60 Epsom Avenue, Auckland, 1023",
+   "lat": -36.8823243,
+   "lng": 174.7667703
+ },
+ {
+   "name": "University Health & Counselling Service",
+   "url": "/doctors/gp/university-health-counselling-service/",
+   "address": "261 Morrin Road, Auckland,1071",
+   "lat": -36.8824933,
+   "lng": 174.8494495
+ },
+ {
+   "name": "Upper Harbour Medical Centre",
+   "url": "/doctors/gp/upper-harbour-medical-centre/",
+   "address": "393 Hobsonville Road, Hobsonville, Auckland",
+   "lat": -36.7991877,
+   "lng": 174.6464309
+ },
+ {
+   "name": "Valley Medical Centre",
+   "url": "/doctors/gp/valley-medical-centre/",
+   "address": "149 Henderson Valley Road, Auckland",
+   "lat": -36.8924481,
+   "lng": 174.6207854
+ },
+ {
+   "name": "Viaduct Medical Centre",
+   "url": "/doctors/gp/viaduct-medical-centre/",
+   "address": "125 Customs Street West, Auckland Central, Auckland",
+   "lat": -36.8441398,
+   "lng": 174.7600248
+ },
+ {
+   "name": "Victoria Park Medical Suites",
+   "url": "/doctors/gp/victoria-park-medical-suites/",
+   "address": "5 Vernon Street, Auckland Central, Auckland",
+   "lat": -36.8488532,
+   "lng": 174.7558334
+ },
+ {
+   "name": "Village Medical (Practice of Dr Pitsilis)",
+   "url": "/doctors/gp/village-medical-practice-of-dr-pitsilis/",
+   "address": "2 Dodson Avenue, Milford, Auckland",
+   "lat": -36.7737165,
+   "lng": 174.7664706
+ },
+ {
+   "name": "Vincent Street Family Doctors",
+   "url": "/doctors/gp/vincent-street-family-doctors/",
+   "address": "80A Vincent Street, Howick, Auckland",
+   "lat": -36.902487,
+   "lng": 174.9257465
+ },
+ {
+   "name": "Vincent Street Family Doctors",
+   "url": "/doctors/gp/vincent-street-family-doctors/",
+   "address": "80A Vincent Street, Howick, Auckland",
+   "lat": -36.902487,
+   "lng": 174.9257465
+ },
+ {
+   "name": "Waiake Medical Centre",
+   "url": "/doctors/gp/waiake-medical-centre/",
+   "address": "1 Hebron Road, Waiake, Auckland",
+   "lat": -36.708365,
+   "lng": 174.7477443
+ },
+ {
+   "name": "Waimauku Doctors",
+   "url": "/doctors/gp/waimauku-doctors/",
+   "address": "8 Waimauku Station Road, Waimauku",
+   "lat": -36.7681204,
+   "lng": 174.492878
+ },
+ {
+   "name": "Waitakere Union Health",
+   "url": "/doctors/gp/waitakere-union-health/",
+   "address": "55-75 Lincoln Road, Henderson, Auckland",
+   "lat": -36.8696778,
+   "lng": 174.6298965
+ },
+ {
+   "name": "Waiuku Health Centre",
+   "url": "/doctors/gp/waiuku-health-centre/",
+   "address": "Waiuku Health Centre",
+   "lat": -37.2521607,
+   "lng": 174.7251647
+ },
+ {
+   "name": "Warkworth Medical Centre",
+   "url": "/doctors/gp/warkworth-medical-centre/",
+   "address": "Warkworth Medical Centre",
+   "lat": -36.3997448,
+   "lng": 174.6662234
+ },
+ {
+   "name": "Well for Life",
+   "url": "/doctors/gp/well-for-life/",
+   "address": "88 Jervois Road, Ponsonby, Auckland",
+   "lat": -36.8456038,
+   "lng": 174.7407936
+ },
+ {
+   "name": "West Auckland Healthcare - Lincoln Road Medical Centre",
+   "url": "/doctors/gp/west-auckland-healthcare-lincoln-road-medical/",
+   "address": "131 Lincoln Road, Henderson, Auckland",
+   "lat": -36.8646275,
+   "lng": 174.6301736
+ },
+ {
+   "name": "West Auckland Healthcare - Ranui Medical Centre",
+   "url": "/doctors/gp/west-auckland-healthcare-ranui-medical-centre/",
+   "address": "421 Swanson Road, Ranui, Auckland",
+   "lat": -36.8637145,
+   "lng": 174.6027489
+ },
+ {
+   "name": "West Auckland Healthcare - Wai Health Clinic",
+   "url": "/doctors/gp/west-auckland-healthcare-wai-health-clinic/",
+   "address": "6-8 Pioneer Street, Henderson, Auckland",
+   "lat": -36.88107824,
+   "lng": 174.6326852
+ },
+ {
+   "name": "West Harbour Medical Centre",
+   "url": "/doctors/gp/west-harbour-medical-centre/",
+   "address": "86 Oreil Avenue, West Harbour, Auckland",
+   "lat": -36.8230174,
+   "lng": 174.6239954
+ },
+ {
+   "name": "West Harbour Medical Centre",
+   "url": "/doctors/gp/west-harbour-medical-centre/",
+   "address": "86 Oreil Avenue, West Harbour, Auckland",
+   "lat": -36.8230174,
+   "lng": 174.6239954
+ },
+ {
+   "name": "Westgate Medical Centre",
+   "url": "/doctors/gp/westgate-medical-centre-1/",
+   "address": "Westgate Medical Centre",
+   "lat": -36.81966258,
+   "lng": 174.6141458
+ },
+ {
+   "name": "Westmere Medical Centre",
+   "url": "/doctors/gp/westmere-medical-centre/",
+   "address": "146 Garnet Road, Westmere, Auckland",
+   "lat": -36.8548664,
+   "lng": 174.7187932
+ },
+ {
+   "name": "Westview Medical Centre",
+   "url": "/doctors/gp/westview-medical-centre/",
+   "address": "5 Glendale Road, Glen Eden, Auckland",
+   "lat": -36.9103537,
+   "lng": 174.6498171
+ },
+ {
+   "name": "Whanau Ora Community Clinic",
+   "url": "/doctors/gp/whanau-ora-community-clinic/",
+   "address": "12 Lambie Drive, Papatoetoe, Auckland",
+   "lat": -36.9858394,
+   "lng": 174.87241
+ },
+ {
+   "name": "Whangaparaoa Medical Centre",
+   "url": "/doctors/gp/whangaparaoa-medical-centre/",
+   "address": "16 Wade River Road, Stanmore Bay, Whangaparaoa",
+   "lat": -36.6379845,
+   "lng": 174.7472965
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "90 Green Ln E, Remuera, Auckland, 1051",
+   "lat": -36.8876102,
+   "lng": 174.7984565
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "436-440 Glenfield Road, Auckland, 0629",
+   "lat": -36.7810985,
+   "lng": 174.7188913
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "131 Lincoln Road, Auckland,0610",
+   "lat": -36.8646141,
+   "lng": 174.6279261
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "110 Lunn Avenue, Auckland,1072",
+   "lat": -36.8885713,
+   "lng": 174.8293039
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "2140 Great North Road, Auckland, 0600",
+   "lat": -36.901993,
+   "lng": 174.691597
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "15-23 Station Road, Auckland, 1062",
+   "lat": -36.94264,
+   "lng": 174.8382434
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "202 Ponsonby Road, Auckland, 1011",
+   "lat": -36.8536516,
+   "lng": 174.7431497
+ },
+ {
+   "name": "White Cross Accident & Medical - Auckland",
+   "url": "/doctors/gp/white-cross-accident-medical-auckland/",
+   "address": "52 St Lukes Rd, Auckland,1025",
+   "lat": -36.8817729,
+   "lng": 174.7293235
+ },
+ {
+   "name": "Windsor Medical Centre",
+   "url": "/doctors/gp/windsor-medical-centre-1/",
+   "address": "51 Corinthian Drive, Albany, Auckland",
+   "lat": -36.7310749,
+   "lng": 174.7141599
+ },
+ {
+   "name": "Wiri Family Doctors",
+   "url": "/doctors/gp/wiri-family-doctors/",
+   "address": "10/792 Great South Road, Wiri, Auckland",
+   "lat": -37.000885,
+   "lng": 174.8893139
+ },
+ {
+   "name": "Worldwise Travellers Health Centre Newmarket",
+   "url": "/doctors/gp/worldwise-travellers-health-centre-newmarket/",
+   "address": "12C St Marks Road, Remuera, Auckland",
+   "lat": -36.8746629,
+   "lng": 174.7804515
+ }
+]

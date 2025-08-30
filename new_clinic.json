@@ -1,0 +1,2200 @@
+[
+  {
+    "url": "/clinics/browns-road/",
+    "name": "Browns Road GP & Urgent Care",
+    "address": "235 Browns Road, Manurewa",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 264 1640",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=235+Browns+Road%2c+Manurewa",
+    "busy": 9,
+    "latitude": "-37.0182123",
+    "longitude": "174.8636350",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Accessible",
+      "Open Weekends",
+      "Walk In",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Weymouth provides urgent care for accidents and injuries, and general practice services for you and your wh\u0101nau, 7 days a week. We\u2019ve been serving the Manurewa community since 2007.",
+      "We\u2019re open evenings and weekends \u2013 so you can get medical help after work or school. After hours \u2013 Please visitLocal Doctors Otara.",
+      "You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, small cuts and burns, sprains and strains and other minor injuries.Our doctors and nurses will carefully assess your condition and take fast action \u2013 performing plastering and suturing, asthma treatment, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital.You and your wh\u0101nau can also get regular medical care from our general practice team. Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems.The clinic is ACC accredited to help you bounce back from injuries caused by an accident.\u00a0We\u2019re also skilled at treating and\u00a0managing\u00a0long-term health issues such as depression, asthma and diabetes.Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well. One of our GPs also performs minor surgical procedures.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is dedicated, friendly and ready to help. We enjoy serving many M\u0101ori and Polynesian families in our community. Members of our team speak English, Samoan, Tongan, Hindi, Punjabi, Persian, Fijian, Kannada, Kashmiri, Mandarin and Cantonese.It\u2019s easy and convenient to see us \u2013 just walk in. We\u2019re open 7 days a week from 8am\u20138pm, located on Browns Road in Manurewa, South Auckland, near major roads and public transport.",
+      "Please note that our standard GP appointment time is up to 15 minutes, to allow time for clinical notes and referrals to be completed. If you have more to discuss, you can request an extended appointment at an additional cost. In most cases, payment is required on arrival, before your consultation.Private x-ray, dental, pharmacy and physiotherapy services are available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/dawson-road/",
+    "name": "Dawson Road GP & Urgent Care",
+    "address": "124 Dawson Road, Flat Bush, South Auckland",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 274 3468",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=124+Dawson+Road%2c+Flat+Bush%2c+South+Auckland",
+    "busy": 6,
+    "latitude": "-36.977832",
+    "longitude": "174.897788",
+    "amenities": [
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Walk In",
+      "Open Weekends",
+      "Accessible",
+      "Female Doctor",
+      "Appointment",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray",
+      "Flu Vaccine"
+    ],
+    "about": [
+      "Local Doctors Dawson Road provides urgent care for accidents and injuries and general practice services for you and your wh\u0101nau 7 days a week. After hours \u2013 Please visitLocal Doctors Otara",
+      "Local Doctors Dawson Road is one of the oldest clinics in the T\u0101maki Health organisation, and several team members have worked there for more than 10 years. Some wh\u0101nau bring four generations to the clinic for treatment.",
+      "With our commitment to accessible, comprehensive healthcare and a welcoming atmosphere, patients can simply walk in. Plus, with our new hybrid system, you can now book appointments with two of our doctors from Monday to Friday through the Manage My Health Portal, with available times displayed during booking.",
+      "For added convenience, private dental services are available onsite, ensuring you can access comprehensive care in one location.",
+      "Our dedicated team of doctors and nurses provide urgent care for a variety of minor injuries and ailments, from bumps and bruises to flu and breathing problems.",
+      "They offer prompt assessments and treatments such as plastering, suturing, asthma management, and wound care. Additionally, they'll guide you on any necessary follow-up care, including referrals for X-rays or hospital visits.",
+      "Beyond urgent care, our general practice team offer comprehensive medical services to address both physical and mental health concerns. From managing long-term health issues like depression, asthma, and diabetes to providing regular screenings and immunisations, our goal is to keep you and your wh\u0101nau healthy and well-informed.",
+      "As an ACC-accredited clinic, we specialise in helping patients recover from injuries caused by accidents.",
+      "We take pride in our diverse and supportive team, fluent in multiple languages including English, Sinhalese, Tamil, Gujarati, and more."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/franklin-urgent-care-2/",
+    "name": "Franklin Urgent Care",
+    "address": "12 Glasgow Road, Pukekohe 2120",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 238 6610",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=12+Glasgow+Road%2c+Pukekohe+2120",
+    "busy": 1,
+    "latitude": "-37.207445",
+    "longitude": "174.909330",
+    "amenities": [
+      "Accident and injury treatment"
+    ],
+    "about": [
+      "Franklin Urgent Care is located in the Franklin Hospital building, 12 Glasgow Road. It is a South Auckland Urgent Care Clinic and part of the Local Doctors/White Cross network. The affiliation with our network allows patients who are enrolled with a Local Doctors or White Cross clinic, to pay a lower consultation fee. You can confirm the current Local Doctors/White Cross patient fee with reception on arrival, or by calling 09 238 6610.",
+      "The urgent care clinic operates a walk-in model, with patients seen according to a nurse triage assessment that prioritises urgent cases, and then order of arrival. The clinic is open 7 days, 8am \u2013 8pm, including public holidays, with payment due on arrival."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/glen-innes/",
+    "name": "Glen Innes GP & Urgent Care",
+    "address": "5 Mayfair Place, Glen Innes",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 528 9054",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=5+Mayfair+Place%2c+Glen+Innes",
+    "busy": 7,
+    "latitude": "-36.8788308",
+    "longitude": "174.8561946",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "X-ray",
+      "Pharmacy"
+    ],
+    "about": [
+      "At Local Doctors Glen Innes we are a GP and Urgent Care Clinic, offering walk-in consultations. We\u2019re open 7 days a week from 8am\u20138pm, located on Mayfair Place in East Auckland, accessible by public transport and car (parking is also available). Anytime you need care, just pop along to our clinic and our healthcare team will see you right. Our ethnically diverse team is warm, friendly, and ready to help. Members of our team speak English, Mandarin, Cantonese, Hindi and Tamil.",
+      "Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems, keeping you up to date with health screenings, immunisations, treating and managing long-term health issues such as depression, asthma and diabetes, and so much more. Our GPs can also refer you to other health services, locally, regionally, and nationally when needed.",
+      "Our Urgent Care team can assist with a wide range of conditions and issues, from bumps and bruises to breaks, flu or more serious breathing problems, insect bites, cuts and burns, sprains and strains. Our doctors and nurses will assess your condition and take the necessary corrective action, such as specialist referrals, plastering and suturing, asthma treatment, wound care and more. There are also x-ray and pharmacy services on site, so you can easily get additional treatment if needed."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/hillpark/",
+    "name": "Hillpark GP",
+    "address": "32 Dennis Avenue, Hillpark, Auckland 2102",
+    "open_status": "Closed",
+    "closing_time": "Reopen Sun 31 Aug 8:00am",
+    "phone": "09 267 8066",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=32+Dennis+Avenue%2c+Hillpark%2c+Auckland+2102",
+    "busy": 0,
+    "latitude": "-37.0152274",
+    "longitude": "174.9013914",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Dental",
+      "Pharmacy",
+      "ACC Provider",
+      "Accessible",
+      "Flu Vaccine"
+    ],
+    "about": [
+      "Local Doctors Hillpark, previously Hillpark Medical Centre, is a well-known and respected family-focused General Practice in Manurewa, South Auckland. It provides a full range of accident and medical services with high-quality, low-cost healthcare for you and your wh\u0101nau through appointment-only consultations.",
+      "We're here to support you with preventive care, as well as the diagnosis, management, and treatment of long-term conditions and overall wellbeing. This includes physical and mental health concerns such as diabetes, heart disease, high blood pressure, depression, asthma, anxiety, and more. We'll also help you stay up-to-date with screenings, routine check-ups, and immunisations.",
+      "We provide minor surgery for the safe and efficient removal and biopsy of skin lesions, as well as cosmetic procedures like the removal of benign moles and skin tags.",
+      "As an ACC-accredited clinic, we are well-equipped to assist with the assessment and treatment of injuries, support new and ongoing ACC claims, and provide specialist referrals when necessary.",
+      "Our ethnically diverse team is warm, friendly and ready to help.",
+      "We are open Monday to Friday from 8am to 5pm, and Saturday from 8am to 2pm.",
+      "You can find us at 32 Dennis Avenue, Manurewa, Auckland, near a dentist clinic and pharmacy. We offer ample parking at the rear of the clinic, and there's a bus stop right outside that provides easy public transport access. Wheelchair access is also available."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "2:00pm"
+      },
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/lynnmall-medical-centre/",
+    "name": "LynnMall Medical Centre GP",
+    "address": "3058 Great North Road, New Lynn, Auckland 0600",
+    "open_status": "Open",
+    "closing_time": "Closes at 1:00pm",
+    "phone": null,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3058+Great+North+Road%2c+New+Lynn%2c+Auckland+0600",
+    "busy": 1,
+    "latitude": "-36.9089105",
+    "longitude": "174.6846102",
+    "amenities": [],
+    "about": [
+      "Please be aware that our prices for after hours consults have changed, with a higher fee now applied for appointments after 5pm Mon-Fri, and anytime on the weekend. Please view the updated fees below for more info.",
+      "",
+      "Welcome and Kia Ora to LynnMall Medical Centre.",
+      "We have been established as a general practice since the late 1980s and our rooms were initially located in small rooms upstairs next to the LynnMall Management Office. We have been at our present, purpose built, premises since September 1997. We are part of Tamaki Health PHO and have a diverse population of patients who are mostly based in West Auckland. Our aim is to provide you with personalised, quality healthcare.",
+      "Dr Robert Price and Dr Slushna Weeramuni are the principal GPs. Dr Price has been at the practice since 1993 and Dr Weeramuni since 1995. Dr Price qualified at the University Of Auckland Medical School and Dr Weeramuni at the University of London. They both have attained fellowship of the Royal New Zealand College of General Practitioners (RNZCGP) and practice with the ethics and codes set down by the RNZCGP.",
+      "We also have 3 part time doctors: Dr Anne-Marie Lonergan and Dr Heather Wishart work sessions for us on Mondays, Tuesdays, Thursdays and Fridays. Dr Asif Rahman provides us with cover on Saturday mornings.",
+      "You have the choice of enrolling with either a male or female doctor. Once enrolled, you have the option of seeing any doctor available. However we prefer if you continue to see the same doctor as we believe that this provides good continuity of care."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "7:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "7:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "6:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "7:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "7:00pm"
+      },
+      "Saturday": {
+        "opening": "9:00am",
+        "closing": "1:00pm"
+      },
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/mangere-town-centre/",
+    "name": "Mangere Town Centre GP & Urgent Care",
+    "address": "10 Waddon Place, Mangere",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 275 7954",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=10+Waddon+Place%2c+Mangere",
+    "busy": 9,
+    "latitude": "-36.9714002",
+    "longitude": "174.7983533",
+    "amenities": [
+      "ACC Accredited",
+      "Female Doctor",
+      "Urgent care",
+      "GP Services",
+      "Parking",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "Dental",
+      "Pharmacy",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Mangere Town Centre \u2013 Urgent care & GP Clinic provides urgent care for accidents and injuries and general practice services for you and your wh\u0101nau 7 days a week, from 8 am to 8 pm.",
+      "You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, small cuts and burns, sprains and strains and other minor injuries. You and your wh\u0101nau can also get regular medical care from our general practice team.",
+      "Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health problems. We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes.",
+      "Our doctors and nurses will carefully assess your condition and take fast action. They will also decide who else you may need to see for treatment. You may need to have an x-ray or go to the hospital. We will help keep you up-to-date with screenings, immunisations, and more, so you stay well. Our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "It\u2019s easy and convenient to see us. We are open 7 days a week, from 8am to 8pm, on a walk-in basis.",
+      "The clinic is ACC accredited to help you bounce back from injuries caused by accidents.",
+      "Our ethnically diverse team is warm, friendly and ready to help. Our team members speak English, Hindi, Georgian, Russian, Tamil, Malay, Bengali, Tongan and Samoan.",
+      "You can find us on Waddon Place in Mangere, South Auckland, near major roads and public transport. Parking is available.",
+      "Private x-ray, dental and pharmacy services are available on-site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/mt-roskill-gp-uc/",
+    "name": "Mt Roskill GP & Urgent Care",
+    "address": "445 Richardson Road, Mt Roskill",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 627 8552",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=445+Richardson+Road%2c+Mt+Roskill",
+    "busy": 3,
+    "latitude": "-36.9131087",
+    "longitude": "174.7281732",
+    "amenities": [
+      "Appointment",
+      "Female Doctor",
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Accessible",
+      "Open Weekends",
+      "Pharmacy",
+      "Walk In",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Mt Roskill Medical and Surgical Centre provides urgent care for accidents and injuries and general practice services for you and your wh\u0101nau 7 days a week. We\u2019re open evenings and weekends \u2013 so you can get medical help after work or school.",
+      "You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, small cuts and burns, sprains and strains and other minor injuries.Our doctors and nurses will carefully assess your condition and take fast action \u2013 performing plastering and suturing, asthma treatment, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital.You and your wh\u0101nau can also get regular medical care from our general practice team. Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems.The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak English, Hindi, Punjabi, Fiji Hindi, Chinese, Urdu, Afghani, Telugu, Tamil, Malayalam, Sinhalese, Malay and Indonesian.Three of our doctors \u2013 Dr Rajiv Sood, Dr Steveley Gonsalves and Dr Mukul Diesh have been worked in our clinic for more than 15 years.It\u2019s easy and convenient to see us \u2013 we\u2019re open 7 days a week from 8am\u20138pm. You can just walk in, or you can be seen by appointment.You can find us on 445 Richardson Road in Mt Roskill, Central Auckland, near major roads and public transport. Parking is available.Private x-ray and pharmacy services are available on-site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/otara-gp-uc/",
+    "name": "Otara GP & Urgent Care",
+    "address": "3 Watford Street, Otara",
+    "open_status": "Open",
+    "closing_time": "Closes at 11:00pm",
+    "phone": "09 274 3414",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3+Watford+Street%2c+Otara",
+    "busy": 7,
+    "latitude": "-36.9621109",
+    "longitude": "174.8729106",
+    "amenities": [
+      "ACC Accredited",
+      "Female Doctor",
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Otara - Urgent Care & GP Clinic provides urgent care for accidents and injuries and general practice services for you and your wh\u0101nau 7 days a week. We're open evenings and weekends, from Monday to Sunday, from 8 am to 11 pm, so that you can get medical help after work or school.",
+      "You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, small cuts and burns, sprains and strains and other minor injuries. You and your wh\u0101nau can also get regular medical care from our general practice team. Our GPs and nurses offer a full range of general practice services to assist with physical and mental health problems.",
+      "We're skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Our team includes a diabetes nurse specialist and GPs with a special interest in diabetes care.",
+      "Our doctors and nurses will carefully assess your condition and take fast action, and they can also decide who else you may need to see for treatment. You may need to have an x-ray or go to the hospital. Our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "We will help keep you up-to-date with screenings, immunisations, and more so you stay well. One of our GPs also performs minor surgical procedures.",
+      "The clinic is an ACC provider, so we can help you bounce back from injuries caused by accidents.",
+      "Our large, ethnically diverse team is warm, friendly and ready to help. Our team members speak English, Samoan, Tamil, Hindi, Arabic, Punjabi, Malayalam, Filipino, Gujarati, Tongan, Telugu, Kannada, Marathi, Russian and Fijian.",
+      "You can find us in the Otara shopping centre, near McDonald's. The motorway and public transport are nearby. There is a large car park available.",
+      "Private x-ray, dental, pharmacy and physiotherapy services are available on-site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "11:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/ascot-24-7-uc-1/",
+    "name": "White Cross Ascot 24/7 Urgent Care",
+    "address": "90 Green Lane East, Remuera, Auckland 1051",
+    "open_status": "Open",
+    "closing_time": "Open 24 hours",
+    "phone": "09 520 9555",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=90+Green+Lane+East%2c+Remuera%2c+Auckland+1051",
+    "busy": 6,
+    "latitude": "-36.8872079",
+    "longitude": "174.8004688",
+    "amenities": [
+      "Female Doctor",
+      "Urgent care",
+      "24 Hours",
+      "Parking",
+      "Accessible",
+      "Open Weekends",
+      "Walk In",
+      "Pharmacy",
+      "X-ray"
+    ],
+    "about": [
+      "White Cross Ascot provides comprehensive, urgent care services for accidents and illnesses 24 hours a day, 7 days a week. We are the urgent care clinic near you that\u2019s always open \u2013 so you can get medical help quickly.You can receive care for your bumps and bruises, flu and breathing problems, insect bites, cuts and burns, sprains and strains, broken bones and other minor injuries.Our doctors and nurses will carefully assess your condition and take prompt action \u2013 performing services such as plastering and suturing, asthma treatment, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital.If you do need an x-ray, you can get one at the private x-ray service located on site.Our team members are warm and welcoming and may speak several languages \u2013 English, Samoan, Korean, Hindi, Filipino, Cook Island M\u0101ori, Mandarin, Cantonese and many others.It\u2019s easy and convenient to see us \u2013 you can simply walk in. You can find us on the ground floor of Ascot Hospital, Remuera, near the Southern motorway and public transport. Pharmacy, caf\u00e9 and laboratory services are located on site. Parking is available.White Cross Ascot is ACC accredited, so you can be assured of receiving the highest quality care for injuries."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Tuesday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Wednesday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Thursday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Friday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Saturday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Sunday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      }
+    }
+  },
+  {
+    "url": "/clinics/glenfield-gp-uc/",
+    "name": "White Cross Glenfield GP & Urgent Care",
+    "address": "436-440 Glenfield Road, Glenfield",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 444 4244 ext 3",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=436-440+Glenfield+Road%2c+Glenfield",
+    "busy": 1,
+    "latitude": "-33.9598684",
+    "longitude": "150.8857874",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Appointment",
+      "Accessible"
+    ],
+    "about": [
+      "Note: If you are enquiring about immigration medical please emailglenfield.reception@tamakihealth.co.nz. Please be aware, we are experiencing high volumes of immigration enquiries at the moment.",
+      "As our name suggests, White Cross Glenfield Urgent Care and GP provides both urgent care and general practice medical services, where you can enrol and be seen by our great team of GPs and nurses. You can also visit us for urgent care, but the times and costs differ for each service.We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland, Palmerston North and Christchurch.With our GP service you can recover from your coughs, colds, and other illnesses, bounce back from minor injuries and manage your long-term health issues such as asthma and diabetes. You can also stay up to date on screenings, immunisations and more, so you stay well.You can also get animmigration medical exam. We are an approved provider of medical examinations for Immigration New Zealand. Contact the clinic to find out more and make an appointment.Our doctors can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. Members of our team may speak a variety of languages.It\u2019s easy and convenient to see us. We are open Monday to Friday from 8am\u20135.30pm. Please contact the clinic to book an appointment.You can find us on Glenfield Road on Auckland\u2019s North Shore, near major roads and public transport. Parking is available. Private x-ray services are located on site.Urgent care services at GlenfieldLike several of the clinics in our network, White Cross Glenfield provides urgent care for accidents and injuries for you and your wh\u0101nau 7 days a week. You can learn more about these services and when you can access them on theWhite Cross website."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/henderson-24-7-uc-1/",
+    "name": "White Cross Henderson 24/7 Urgent Care",
+    "address": "131 Lincoln Road, Henderson, Auckland 0610",
+    "open_status": "Open",
+    "closing_time": "Open 24 hours",
+    "phone": "09 836 3336",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=131+Lincoln+Road%2c+Henderson%2c+Auckland+0610",
+    "busy": 2,
+    "latitude": "-36.8642890",
+    "longitude": "174.6293901",
+    "amenities": [
+      "24 Hours",
+      "Urgent care",
+      "Accessible",
+      "Female Doctor",
+      "Open Weekends",
+      "Parking",
+      "Walk In",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray",
+      "Flu Vaccine"
+    ],
+    "about": [
+      "White Cross Henderson provides comprehensive, urgent care services for accidents and illnesses 24 hours a day, 7 days a week in West Auckland. We are the urgent care clinic near you that\u2019s always open \u2013 so you can get medical help quickly.We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland, Palmerston North and Christchurch.You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, cuts and burns, sprains and strains, broken bones and other minor injuries.Our doctors and nurses will carefully assess your condition and take prompt action \u2013 performing services such as plastering and suturing, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital.You can also book an appointment with our specialist centre for podiatry, ear care, cannabis care, orthopaedics, breast care, appearance medicine, ophthalmology and plastic surgery consultations.Private x-ray, dental, pharmacy and physiotherapy services are available on site, so you can easily get additional treatment if you need it.Local Doctors Lincoln Roadis also on site and offers general practice medical care for you and your wh\u0101nau.Our ethnically diverse team is warm, friendly and ready to help. Members of our team may speak English, Hindi, Gujarati, Filipino, Tongan, Spanish, German, Italian and French.It\u2019s easy and convenient to see us \u2013 you can simply walk in. You can find us on Lincoln Road in Henderson near the motorway and public transport. Parking is available.White Cross Henderson is ACC accredited, so you can be assured of receiving the highest quality care for injuries."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Tuesday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Wednesday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Thursday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Friday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Saturday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      },
+      "Sunday": {
+        "opening": "Open 24 hours",
+        "closing": ""
+      }
+    }
+  },
+  {
+    "url": "/clinics/lunn-ave-gp-uc/",
+    "name": "White Cross Lunn Ave GP & Urgent Care",
+    "address": "110 Lunn Avenue, Remuera, Auckland 1072",
+    "open_status": "Open",
+    "closing_time": "Closing early at 6:00pm. Reopen Sat 30 Aug 8:00pm",
+    "phone": "09 570 8899",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=110+Lunn+Avenue%2c+Remuera%2c+Auckland+1072",
+    "busy": 8,
+    "latitude": "-36.8885707",
+    "longitude": "174.8307475",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Appointment",
+      "X-ray",
+      "Accessible",
+      "Dental",
+      "Physio"
+    ],
+    "about": [
+      "As our name suggests, White Cross Lunn Ave Urgent Care and GP provides both urgent care and general practice medical services, where you can enrol and be seen by our great team of GPs and nurses. You can also visit us for urgent care, but the times and costs differ for each service.",
+      "We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland, Palmerston North and Christchurch.",
+      "With our GP service you can recover from your coughs, colds, and other illnesses, bounce back from minor injuries and manage your long-term health issues such as asthma and diabetes. You can also stay up to date on screenings, immunisations and more, so you stay well.You can also take care of all your vaccination and healthcare needs prior to travelling or working overseas in our travel medicine clinic. Contact the clinic to learn more.Our doctors can also refer you to other health services, locally, regionally and nationally when needed.Private x-ray, dental and physiotherapy services are located on site.Our ethnically diverse team is warm, friendly and ready to help. Members of our team may speak a variety of languages.It\u2019s easy and convenient to see us. We are open from Monday to Friday. Please contact the clinic to book an appointment.You can find us in Remuera, near the Ellerslie-Panmure Highway and public transport. Parking is available.Urgent care services at Lunn AveLike several of the clinics in our network, White Cross Lunn Ave provides urgent care for accidents and injuries for you and your wh\u0101nau 7 days a week. You can learn more about these services and when you can access them on theWhite Cross website."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/new-lynn-gp-uc-1/",
+    "name": "White Cross New Lynn GP & Urgent Care",
+    "address": "2144-2146 Great North Road, New Lynn, Auckland 0600",
+    "open_status": "Closed",
+    "closing_time": "Reopen Sun 31 Aug 8:00am",
+    "phone": "09 828 8912",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=2144-2146+Great+North+Road%2c+New+Lynn%2c+Auckland+0600",
+    "busy": 3,
+    "latitude": "-36.9023576",
+    "longitude": "174.6927157",
+    "amenities": [
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Pharmacy",
+      "X-ray"
+    ],
+    "about": [
+      "*Please note this clinic is temporarily closed*",
+      "As our name suggests, White Cross New Lynn Urgent Care and GP provides both urgent care and general practice medical services, where you canenroland be seen by our great team of GPs and nurses. You can also visit us for urgent care, but the times and costs differ for each service.We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland, Palmerston North and Christchurch.With our GP service you can recover from your coughs, colds, and other illnesses, bounce back from minor injuries and manage your long-term health issues such as asthma and diabetes. You can also stay up to date on screenings, immunisations and more, so you stay well.Our doctors can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. It\u2019s easy and convenient to see us. We are open for GP services from Monday to Friday. Please contact the clinic to book an appointment.You can find us on Great North Road in New Lynn, near the motorway and public transport. Parking is available. Private x-ray, dental and pharmacy services are located on site.Urgent care services at New LynnLike several of the clinics in our network, White Cross New Lynn also provides urgent care for accidents and injuries for you and your wh\u0101nau 7 days a week. You can learn more about these services and when you can access them on theWhite Cross website."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/otahuhu-uc/",
+    "name": "Otohuhu GP",
+    "address": "23 Station Road, Otahuhu, 1062",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 276 3000",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=15%e2%80%9323+Station+Road%2c+Otahuhu+(ground+level)",
+    "busy": 8,
+    "latitude": "-36.9425466",
+    "longitude": "174.8406161",
+    "amenities": [
+      "Female Doctor",
+      "Urgent care",
+      "Parking",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "White Cross Otahuhu provides comprehensive services for accidents and illnesses 7 days a week. We are the urgent care clinic near you that\u2019s open every day \u2013 so you can get medical help quickly.You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, cuts and burns, sprains and strains, broken bones and other minor injuries.Our doctors and nurses will carefully assess your condition and take prompt action \u2013 performing services such as plastering, suturing, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital. Private x-ray, pharmacy and physiotherapy services are available on site, so you can easily get additional treatment if you need it.Our ethnically diverse team is tight-knit, friendly, positive and ready to help. Members of our team may speak English, Hindi, Mandarin, Tongan, Samoan, Niuean, Bengali, French, Arabic and Taiwanese.It\u2019s easy and convenient to see us \u2013 you can simply walk in. We are located on Station Rd in Otahuhu near the motorway and public transport. Parking is available.White Cross Otahuhu is ACC accredited, so you can be assured of receiving the highest quality care for injuries."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/st-lukes-uc-1/",
+    "name": "White Cross St Lukes Urgent Care",
+    "address": "52 Saint Lukes Road, St Lukes, Auckland 1025",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": "09 815 3111",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=52+Saint+Lukes+Road%2c+St+Lukes%2c+Auckland+1025",
+    "busy": 6,
+    "latitude": "-36.8818840",
+    "longitude": "174.7314121",
+    "amenities": [
+      "Urgent care",
+      "Female Doctor",
+      "Parking",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray",
+      "Flu Vaccine"
+    ],
+    "about": [
+      "White Cross St Lukes provides comprehensive services for accidents and illnesses 7 days a week in St Lukes, Central Auckland. We are the urgent care clinic near you that\u2019s open every day \u2013 so you can get medical help quickly.We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland, Palmerston North and Christchurch.You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, cuts and burns, sprains and strains, broken bones and other minor injuries.Our doctors and nurses will carefully assess your condition and take prompt action \u2013 performing services such as plastering, suturing, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital. Private x-ray, dental, pharmacy and physiotherapy services are available on site, so you can easily get additional treatment if you need it.Our doctors may also refer you to our specialist clinics, if you need it, for problems with your back, neck and spine, hand and wrist, shoulder and upper limb and knee.It\u2019s easy and convenient to see us \u2013 you can simply walk in. We are located on St Lukes Rd near Westfield St Lukes shopping centre, the motorway and public transport. Parking is available.White Cross St Lukes is ACC accredited, so you can be assured of receiving the highest quality care for injuries."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/whangarei-uc-1/",
+    "name": "White Cross Whang\u0101rei Urgent Care",
+    "address": "32 Reyburn Street, Whangarei",
+    "open_status": "Open",
+    "closing_time": "Closes at 8:00pm",
+    "phone": null,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=32+Reyburn+Street%2c+Whangarei",
+    "busy": 9,
+    "latitude": "-35.7272213",
+    "longitude": "174.3264475",
+    "amenities": [
+      "Urgent care",
+      "Female Doctor",
+      "Parking",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "White Cross Whangarei provides comprehensive services for accidents and illnesses 7 days a week. We are the urgent care clinic near you that\u2019s open every day \u2013 so you can get medical help quickly.We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland, Palmerston North and Christchurch.You can receive urgent care for your bumps and bruises, flu and breathing problems, insect bites, cuts and burns, sprains and strains, broken bones and other minor injuries.Our doctors and nurses will carefully assess your condition and take prompt action \u2013 performing services such as plastering, suturing, wound care and more.They will also decide who else you may need to see for treatment. For example, you may need to have an x-ray or go to hospital.Private x-ray, dental, pharmacy and physiotherapy services are available on site, so you can easily get additional treatment if you need it.Our ethnically diverse team is warm, welcoming and ready to help. Members of our team may speak English, Spanish, German, Filipino, Afrikaans, Norwegian, Hindi, Urdu and Punjabi.It\u2019s easy and convenient to see us \u2013 you can simply walk in. We are located on Reyburn St near the motorway and public transport. Our clinic is in a brand new building with parking available.White Cross Whangarei is ACC accredited, so you can be assured of receiving the highest quality care for injuries."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Sunday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      }
+    }
+  },
+  {
+    "url": "/clinics/avondale-medical-centre/",
+    "name": "Avondale GP",
+    "address": "256 Rosebank Road, Avondale, 1026",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 828 8453",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=256+Rosebank+Road%2c+Avondale%2c+1026",
+    "busy": null,
+    "latitude": "-36.8857956",
+    "longitude": "174.6835997",
+    "amenities": [
+      "Appointment Only",
+      "Accessible",
+      "Dental",
+      "GP Services",
+      "Parking",
+      "Pharmacy"
+    ],
+    "about": [
+      "Avondale Medical Centre is a West Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Avondale Medical Centre will help keep you up-to-date with screenings, immunisations and more, so you stay well.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse, dedicated and hard-working team provides quality care to patients by appointment. Members of our team speak English, Hindi, Tamil, Telugu, Gujarati, Punjabi, Kannada and Russian.It\u2019s easy and convenient to see us. Our bright, spacious clinic provides a comforting atmosphere for patients. We are open Monday to Friday from 8.30am\u20135pm by appointment. You can find us on Rosebank Road in Avondale. Parking is available.Private dental and pharmacy services are available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/botany-south/",
+    "name": "Botany South GP",
+    "address": "455 East Tamaki Road, East Tamaki, Auckland 2013",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 7823",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=455+East+Tamaki+Road%2c+East+Tamaki%2c+Auckland+2013",
+    "busy": 0,
+    "latitude": "-36.9488962",
+    "longitude": "174.9055935",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Dental",
+      "Pharmacy",
+      "ACC Provider"
+    ],
+    "about": [
+      "Local Doctors Botany South is a South Auckland General Practice providing high-quality, low-cost healthcare for you and your wh\u0101nau. We offer dedicated services and quality care to diverse patients with complex health issues.",
+      "We're open 5 days a week, from 9am to 5pm, by appointment only. You can easily schedule a consultation through the ManageMyHealth Portal. If you're not signed up,simply follow this link. Alternatively, you can call us at09 274 7823or speak to one of our receptionists.",
+      "We're here to support you with preventive care, as well as the diagnosis, management, and treatment of long-term conditions and overall wellbeing. This includes physical and mental health concerns such as diabetes, heart disease, high blood pressure, depression, asthma and anxiety. We'll also help you stay up-to-date with screenings, routine check-ups, and immunisations.",
+      "As an ACC-accredited clinic, we are well-equipped to assist with the assessment and treatment of injuries, support new and ongoing ACC claims, and provide specialist referrals when necessary.",
+      "Our ethnically diverse team is warm, friendly and ready to help. Our team members speak Hindi, English, Marathi, Gujarati, Fijian, Te Reo M\u0101ori, and Samoan.",
+      "Private dental and pharmacy services are available on-site, so you can easily get additional treatment if you need it.",
+      "It's easy and convenient to see us. Our bright, spacious clinic provides a comforting atmosphere for patients on 455 East Tamaki Road, East Tamaki, near public transport. Parking is available."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "9:00am",
+        "closing": "1:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/chapel-park/",
+    "name": "Chapel Park GP",
+    "address": "160 Chapel Road, Chapel Park",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 271 2670",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=160+Chapel+Road%2c+Chapel+Park",
+    "busy": null,
+    "latitude": "38.5136696",
+    "longitude": "-76.5679144",
+    "amenities": [
+      "Appointment Only",
+      "Accessible",
+      "Dental",
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Pharmacy"
+    ],
+    "about": [
+      "Local Doctors Chapel Park is a South Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.",
+      "We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.",
+      "Our GPs can also refer you to other health services, locally, regionally and nationally when needed.",
+      "Our ethnically diverse team is warm, attentive and ready to help. Members of our team speak English, Punjabi, Hindi, Tongan and Cook Islands M\u0101ori.",
+      "It\u2019s easy and convenient to see us, by appointment. We are open Monday to Thursday from 9am\u20135pm and Friday from 9am\u20131pm.",
+      "You can find us on Chapel Road, near public transport. Parking is available.",
+      "Private dental and pharmacy services are available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/city-doctors-1/",
+    "name": "City Doctors GP & Urgent Care",
+    "address": "22 Victoria Avenue,\u00a0Palmerston North",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "06 355 3300",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=22+Victoria+Avenue%2c%c2%a0Palmerston+North",
+    "busy": 0,
+    "latitude": "-40.3635373",
+    "longitude": "175.6284080",
+    "amenities": [
+      "GP Services",
+      "Urgent care",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Pharmacy",
+      "X-ray"
+    ],
+    "about": [
+      "City Doctors provides both urgent care and enrolled patient general practice medical services. We\u2019re part of the White Cross network of 11 high-quality urgent care and general practice clinics located in Whangarei, Auckland and Palmerston North.",
+      "General PracticeWith our GP service, our doctors can support you with planned and unplanned care, such as preventative immunisations, screenings, management of long-term health issues such as asthma and diabetes, and sudden medical needs for coughs, colds and injuries. Our doctors can also refer you on to other health services, locally, regionally and nationally when needed.",
+      "It\u2019s easy and convenient to see us. You can find us on Victoria Avenue near major roads and public transport. Parking is available. Private x-ray, dental and pharmacy services are also located on site. Please contact the clinic to book an appointment.",
+      "Immigration medicals",
+      "Immigration medical exam. We are an approved provider of medical examinations for Immigration New Zealand. Contact the clinic to find out more and make an appointment.Urgent care services at City DoctorsOur City Doctors Urgent Care team are the only Urgent Care provider in the region, supporting patients through medical emergencies, and with injuries or illness that require immediate care. We value our relationships with our patients, and we are proud of the care we provide to our community. Like several of the clinics in our network, City Doctors are here for you and your wh\u0101nau, 7 days a week, on a walk-in basis."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "8:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/dannemora/",
+    "name": "Dannemora GP",
+    "address": "1\u20133 Redcastle Drive, Dannemora",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 272 4163",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=1%e2%80%933+Redcastle+Drive%2c+Dannemora",
+    "busy": 0,
+    "latitude": "-36.9451402",
+    "longitude": "174.9070229",
+    "amenities": [
+      "ACC Provider",
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Pharmacy",
+      "Physio",
+      "Walk In"
+    ],
+    "about": [
+      "Local Doctors Dannemora is a General Practice clinic in South Auckland. Our team offers a full range of accident and medical services, delivering high-quality, low-cost healthcare for you and your wh\u0101nau. Appointments are available for enrolled patients, and walk-in consultations are open to everyone.",
+      "We're open Monday to Friday, from 8am to 6pm, and appointments can easily be scheduled through the Manage My Health Portal. If you're not signed up,simply follow this link. Alternatively, you can call us at09 272 4163or visit the clinic and speak to one of our receptionists.",
+      "We're here to support you with preventive care, as well as the diagnosis, management, and treatment of long-term conditions and overall wellbeing. This includes physical and mental health concerns such as diabetes, heart disease, high blood pressure, depression, asthma and anxiety. We'll also help you stay up-to-date with screenings, routine check-ups, and immunisations.",
+      "Whenever possible, patients will be scheduled to be seen and have a consultation with our dedicated and talented nursing Team led by Practice Nurse Susheela Chandra to help reduce waiting times. New patients will be scheduled for 30-minute appointments with the nurse to update your medical records before seeing the doctor.",
+      "As an ACC-accredited clinic, we are well-equipped to assist with the assessment and treatment of injuries, support new and ongoing ACC claims, and provide specialist referrals when necessary.",
+      "Our ethnically diverse team is warm, friendly and ready to help. Our team members speak English, Napulitano, Tagalog, Visayan, Hiligaynon, Cantonese and Mandarin, Punjabi and Hindi, Arabic, Bengali, Hindi, Fijian, Tongan, Tamil and Shona.",
+      "Our team works together as a family to support each other and care for our patients. We also teach nursing and medical students in our clinic.",
+      "It's easy and convenient to see us. Our clinic provides a comforting atmosphere for patients on 455 East Tamaki Road, East Tamaki, near public transport. Parking is available.",
+      "Private dental, pharmacy, and physiotherapy services are available on-site, so you can easily get additional treatment if you need it.",
+      "You can find us at 1\u20133 Redcastle Drive, Dannemora, East Tamaki, near major roads and public transport. Parking is available."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "6:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "6:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "6:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "6:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "6:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/east-tamaki/",
+    "name": "East Tamaki GP",
+    "address": "275 East Tamaki Road, East Tamaki",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 9264",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=275+East+Tamaki+Road%2c+East+Tamaki",
+    "busy": 0,
+    "latitude": "-36.9507418",
+    "longitude": "174.9016948",
+    "amenities": [
+      "ACC Provider",
+      "Appointment",
+      "GP Services",
+      "Female Doctor",
+      "Pharmacy"
+    ],
+    "about": [
+      "Local Doctors East Tamaki is a South Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau. Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health needs. We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes.",
+      "We will help keep you up-to-date with screenings, immunisations, and more, so you stay well. Our GPs can also refer you to other local, regionally and nationally health services when needed. As an ACC provider, we can help you to bounce back from injuries caused by accidents.",
+      "Our ethnically diverse team is warm, friendly and ready to help, providing comprehensive and holistic care for our patients. Members of our team speak English, Hindi and Samoan.",
+      "It\u2019s easy and convenient to see us - simply book an appointment online using our patient portal Manage My Health, or phone our call centre on 09 274 7823.",
+      "We are open Monday to Friday, from 9 am to 5 pm, and you can find us on East Tamaki Road in South Auckland, near public transport. A pharmacy is also available on site, so you can easily get medication if needed.",
+      "Standard appointments are up to 15 minutes, allowing time for clinical notes and referrals to be completed. If you have more to discuss, you can request an extended appointment at an additional cost."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/glendene-medical-centre/",
+    "name": "Glendene GP",
+    "address": "4343\u20134349 Great North Road, Glendene",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 822 5148",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=4343%e2%80%934349+Great+North+Road%2c+Glendene",
+    "busy": 0,
+    "latitude": "-36.8868688",
+    "longitude": "174.6446583",
+    "amenities": [
+      "GP Services",
+      "Parking",
+      "Walk In",
+      "Pharmacy"
+    ],
+    "about": [
+      "Glendene Medical Centre is a West Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.",
+      "We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.",
+      "Our GPs can also refer you to other health services, locally, regionally and nationally when needed.",
+      "Our ethnically diverse team is warm, friendly and ready to help with a positive \u2018can do\u2019 attitude. Members of our team speak English and Hindi.",
+      "It\u2019s easy and convenient to see us. We are open Monday to Friday, from 8am\u20135pm, by appointment, and you can find us at 4343\u20134349 Great North Road, West Auckland, near public transport. Parking is available. You can find us on Great North Road in West Auckland, near public transport.",
+      "Please note that our standard appointment time is up to 15 minutes, to allow time for clinical notes and referrals to be completed. If you have more to discuss, you can request an extended appointment at an additional cost. In most cases, payment is required on arrival, before your consultation.",
+      "A pharmacy is also available on site, so you can easily get medication if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/kolmar-road/",
+    "name": "Kolmar Road GP",
+    "address": "133 Kolmar Road, Papatoetoe",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 265 4945",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=133+Kolmar+Road%2c+Papatoetoe",
+    "busy": 0,
+    "latitude": "-36.9703793",
+    "longitude": "174.8592424",
+    "amenities": [
+      "Appointment Only",
+      "ACC Provider",
+      "GP Services",
+      "Parking",
+      "Accessible",
+      "Dental",
+      "Pharmacy",
+      "Physio"
+    ],
+    "about": [
+      "Local Doctors Kolmar Road is anappointment-onlySouth Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health problems. We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes.",
+      "We will help keep you up-to-date with screenings, immunisations, and more, so you stay well. Our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "The clinic is an ACC provider to help you bounce back from injuries caused by accidents.",
+      "It\u2019s easy and convenient to see us. We are open Monday to Friday from 8.30 am to 5.30 pm. Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak English, Punjabi and Hindi.",
+      "You can find us on Kolmar Road in Papatoetoe, South Auckland, near the motorway and public transport. Parking is available.",
+      "Private dental, pharmacy and physiotherapy services are available on-site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/leabank-wellness-hub/",
+    "name": "Leabank Wellness Hub",
+    "address": "210 Great South Road, Manurewa, Auckland 2102",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 266 4477",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=210+Great+South+Road%2c+Manurewa%2c+Auckland+2102",
+    "busy": 0,
+    "latitude": "-37.0221822",
+    "longitude": "174.8974048",
+    "amenities": [],
+    "about": [
+      "Permanently closed",
+      "We have merged with Manurewa Healthcare.",
+      "From 13 January 2025 you\u2019ll find the Leabank Health Centre team at Manurewa Healthcare, 210 Great South Road - including Dr Edwin, Dr Emeline, Nurse Prescriber Kamaldeep, Nurse Practitioner Alysha, Nurse Wendy, Healthcare Technician Vai and Medical Receptionist Sneha.",
+      "To book an appointment:",
+      "Combining resources, for the benefit of the community",
+      "On 13 January 2025, we merged our Leabank and Manurewa Healthcare clinics to create one bigger, better, stronger team. Combining resources allows us to provide a better standard of care for our patients, and more support for our workforce.",
+      "All Leabank enrolled patients have been automatically transferred across to Manurewa Healthcare along with the Leabank team, who are looking forward to seeing you there.",
+      "Find us",
+      "We have merged with Manurewa Healthcare. You will now find the Leabank Health Centre team located at Manurewa Healthcare, 210 Great South Road, please see the map below. Use the FREE public car parking behind the clinic on Newhook Lane. See you there.",
+      "Phone",
+      "09 266 4477",
+      "For more information please see our FAQs below."
+    ],
+    "hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/lincoln-road-medical-centre/",
+    "name": "Lincoln Road GP",
+    "address": "131 Lincoln Road, Henderson",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 837 2056",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=131+Lincoln+Road%2c+Henderson",
+    "busy": null,
+    "latitude": "-36.8642890",
+    "longitude": "174.6293901",
+    "amenities": [
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Lincoln Road Medical Centre is a West Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.You can also get an immigration medical exam. We are an approved provider of medical examinations for Immigration New Zealand. Contact\u00a0the clinic to find out more and make an appointment.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak English, te reo M\u0101ori, Tamil, Hindi, Marathi and Chinese.You can easily schedule an appointment with one of our doctors. We're available Monday to Friday, from 8 am to 5 pm for your convenience.You can find us on Lincoln Road near the motorway and public transport. Parking is available.Private x-ray, physio, dental and pharmacy services are available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/wai-health/",
+    "name": "Local Doctors Wai Health - GP",
+    "address": "8 Pioneer Street, Henderson, Auckland 0612",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 839 0280",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=8+Pioneer+Street%2c+Henderson%2c+Auckland+0612",
+    "busy": null,
+    "latitude": "-36.8828662",
+    "longitude": "174.6326295",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Pharmacy",
+      "Physio"
+    ],
+    "about": [
+      "Local Doctors Wai Health Clinic is a West Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.",
+      "We're also skilled at treating and managing long-term health issues such as depression, asthma and diabetes, helping you keep up-to-date with screenings, immunisations and more, so you stay well.",
+      "Our GPs can also refer you to other health services, locally, regionally and nationally when needed.",
+      "Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak English, te reo M\u0101ori, Hindi, Urdu, Punjabi, Bengali, Arabic, Tamil and Farsi.",
+      "It's easy and convenient to see us. We are open Monday to Friday, from 8am\u20135pm, by appointment only. You can find us at the Whanau House at the corner of Edsel and Catherine Streets in Henderson, near major roads and public transport. Parking is available.",
+      "Private dental, pharmacy, and physiotherapy services are available on-site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/mangere-bridge/",
+    "name": "Mangere Bridge GP",
+    "address": "41 Coronation Road, Mangere Bridge",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 254 4290",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=41+Coronation+Road%2c+Mangere+Bridge",
+    "busy": 0,
+    "latitude": "-36.9430620",
+    "longitude": "174.7876632",
+    "amenities": [
+      "GP Services",
+      "Parking",
+      "Accessible"
+    ],
+    "about": [
+      "Local Doctors Mangere Bridge is a South Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health problems. The clinic is an ACC provider to help you bounce back from injuries caused by accidents.",
+      "Local Doctors Mangere Bridge will help keep you up-to-date with screening tests, immunisations and more, so you stay well. Our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. The clinic provides minor surgery, including lesion removal and is credentialed to provide long-acting reversible contraception (LARC).",
+      "Our ethnically diverse team is warm, friendly, ready to help, and has a good rapport with our patients. Members of our team speak English, Samoan and Malayalam.",
+      "It\u2019s easy and convenient to see us. We are open Monday to Friday, from\u00a09am\u20135pm, by appointment, and you can find us at 41 Coronation Road, Mangere Bridge, South Auckland, near public transport. Parking is available."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "9:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "9:00am",
+        "closing": "4:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/manurewa-healthcare/",
+    "name": "Manurewa Healthcare GP",
+    "address": "210 Great South Road, Manurewa, Auckland 2102",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": null,
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=210+Great+South+Road%2c+Manurewa%2c+Auckland+2102",
+    "busy": 0,
+    "latitude": "-37.0221822",
+    "longitude": "174.8974048",
+    "amenities": [],
+    "about": [
+      "Manurewa Healthcare is a General Practice clinic, Cornerstone-accredited, and a partner clinic in the Local Doctors network, supported by Tamaki Health and Total Health PHO.",
+      "The team at Manurewa Healthcare pride themselves on giving the best possible healthcare to patients and the local community. They are a family centred, culturally diverse surgery, offering a full range of general practice and accident & medical services, located in the heart of the Manurewa town centre at 210 Great South Road.",
+      "Combining resources, for the benefit of the community",
+      "On Monday 13 January, the team grew significantly when they welcomed the Leabank Health Centre team including Dr Edwin, Dr Emeline, Nurse Prescriber Kamaldeep, Nurse Practitioner Alysha, Nurse Wendy, Healthcare Technician Vai and Medical Receptionist Sneha into their clinic. All Leabank enrolled patients have also been automatically transferred across to Manurewa Healthcare.",
+      "Get the care you need, from a wider range of professionals.",
+      "Not only do you now have a larger healthcare team at your disposal, but you\u2019ll also benefit from the freshly renovated premises. It\u2019s a new year, a fuller team, and a fresh start.",
+      "To book an appointment:"
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/massey-road/",
+    "name": "Massey Road GP",
+    "address": "7B/359 Massey Road, Mangere East",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 265 4955",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=7B%2f359+Massey+Road%2c+Mangere+East",
+    "busy": 0,
+    "latitude": "-36.966522",
+    "longitude": "174.825131",
+    "amenities": [
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Walk In",
+      "Open Weekends",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "ACC Provider"
+    ],
+    "about": [
+      "Local Doctors Massey Road is a South Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health problems. The clinic is an ACC provider to help you bounce back from injuries caused by accidents, and our team will help keep you up-to-date with screenings, immunisations, and more, so you stay well.",
+      "We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes, and our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "Our ethnically diverse team is hard-working, caring, friendly and ready to help. Members of our team speak Arabic, Niuean and Samoan. It\u2019s easy and convenient to see us. We are on Massey Road in Mangere East, South Auckland, near major roads and public transport. Parking is available."
+    ],
+    "hours": {
+      "Monday": "Closed",
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:30pm"
+      },
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/otahuhu-gp/",
+    "name": "\u014ct\u0101huhu GP",
+    "address": "15\u201323 Station Road, Otahuhu, 1062",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 276 3000",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=15%e2%80%9323+Station+Road%2c+Otahuhu%2c+1062",
+    "busy": 0,
+    "latitude": "-36.9425466",
+    "longitude": "174.8406161",
+    "amenities": [
+      "ACC Provider",
+      "GP Services",
+      "Female Doctor",
+      "Parking",
+      "Appointment",
+      "Walk In",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Otahuhu is a South Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.",
+      "We are open Monday to Friday, from 8.30 am to 5.00 pm, by appointment. You can find us at 15-23 Station Road, Otahuhu, South Auckland, near major roads and public transport. Parking is available.",
+      "Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health problems. We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes.",
+      "We will help keep you up-to-date with screenings, immunisations, and more, so you stay well. Our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "The clinic is an ACC provider to help you bounce back from injuries caused by accidents.",
+      "Our ethnically diverse team is warm, friendly and ready to help.",
+      "Please note that our standard GP appointment time is up to 15 minutes, to allow time for clinical notes and referrals to be completed. If you have more to discuss, you can request an extended appointment at an additional cost. In most cases, payment is required on arrival, before your consultation.",
+      "Private dental, pharmacy, and physiotherapy services are also on-site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/otara-mall-gp-clinic/",
+    "name": "Otara Mall GP",
+    "address": "120 East Tamaki Road, Otara Mall",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 9354",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=120+East+Tamaki+Road%2c+Otara+Mall",
+    "busy": 0,
+    "latitude": "-36.942520",
+    "longitude": "174.840721",
+    "amenities": [
+      "ACC Accredited",
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Dental",
+      "Pharmacy",
+      "Walk In",
+      "X-ray"
+    ],
+    "about": [
+      "Local Doctors Otara Mall is a South Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau. We are open Monday to Thursday from 8 am to 5 pm, and Fridays from 8 am to 1 pm.",
+      "Our GPs and nurses offer a full range of general practice services to assist you with physical and mental health problems. We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Our team includes a diabetes nurse specialist and a GP specialising in diabetes care.",
+      "We will help keep you up-to-date with screenings, immunisations, and more, so you stay well. Our GPs can also refer you to other local, regionally and nationally health services when needed.",
+      "The clinic is an ACC provider to help you bounce back from injuries caused by accidents.",
+      "Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak English, Tongan and Hindi.",
+      "You can find us on East Tamaki Road in Otara Mall, South Auckland, near major roads and public transport. A large car park is available.",
+      "Private pharmacy, x-ray and dental services are available on-site, so you can easily get additional treatment if you need it. There\u2019s also a gym and Labtests nearby."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "2:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/pukekohe-family-doctors/",
+    "name": "Pukekohe Family Doctors GP",
+    "address": "12 Glasgow Road, Pukekohe, 2120, Auckland",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 238 6696",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=12+Glasgow+Road%2c+Pukekohe%2c+2120%2c+Auckland",
+    "busy": 0,
+    "latitude": "-37.20748197284758",
+    "longitude": "174.9083331",
+    "amenities": [],
+    "about": [
+      "Pukekohe Family Doctors is located in the Franklin Hospital building, 12 Glasgow Road. It is a South Auckland GP clinic and part of the Local Doctors/White Cross network. Pukekohe Family Doctors have a limited number of appointments available for patients who are enrolled with Local Doctors or White Cross, subject to availability, and subject to payment of the Pukekohe Family Doctors consultation fee on arrival.",
+      "To book an appointment and confirm the consultation fee applicable, please call the clinic directly on09 238 6696.\u00a0 Pukekohe Family Doctors is open Monday to Friday from 8:30am\u20135pm, by appointment only. For more information visitPukekohe Family Doctors - GP \u2022 Healthpoint"
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/ranui/",
+    "name": "Ranui GP",
+    "address": "421 Swanson Road, Ranui \n(Carpark entry from the corner of Armada Drive)",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 833 6033",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=421+Swanson+Road%2c+Ranui+%0a(Carpark+entry+from+the+corner+of+Armada+Drive)",
+    "busy": null,
+    "latitude": "-36.86347569661431",
+    "longitude": "174.602568308842",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Pharmacy",
+      "Physio"
+    ],
+    "about": [
+      "Local Doctors Ranui is a West Auckland medical centre that provides high-quality, low-cost healthcare for you and your wh\u0101nau. We offer dedicated services and quality care to diverse patients with complex health issues.",
+      "We're open Monday to Friday, from 8am to 5pm, and operate by appointment only. Standard appointments are up to 15 minutes, allowing time for clinical notes and referrals to be completed. If you have more than one issue to discuss, you can request an extended appointment at an additional cost.",
+      "You can easily schedule a consultation through the ManageMyHealth Portal. If you're not signed up,\u00a0simplyfollow this link. Alternatively, you can call us at09 274 7823or speak to one of our receptionists.",
+      "We're here to support you with preventive care, as well as the diagnosis, management, and treatment of long-term conditions and overall wellbeing. This includes physical and mental health concerns such as diabetes, heart disease, high blood pressure, depression, asthma and anxiety. We'll also help you stay up-to-date with screenings, routine check-ups, and immunisations.",
+      "As an ACC-accredited clinic, we are well-equipped to assist with the assessment and treatment of injuries, support new and ongoing ACC claims, and provide specialist referrals when necessary.",
+      "Our ethnically diverse team is warm, friendly and ready to help. Our team members speak English, Hindi, Marathi, Afrikaans, Gujarati and Marathi.",
+      "Visiting us is easy and convenient! Our clinic is located at 421 Swanson Road, Ranui, near major roads and public transport. Parking is available from Armada Drive.",
+      "Plus, there are on-site private dental and pharmacy services, making it simple for you to get any additional treatment you may need\u2014all in one place."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/sandringham/",
+    "name": "Sandringham GP",
+    "address": "546 Sandringham Road, Sandringham",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 849 2111",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=546+Sandringham+Road%2c+Sandringham",
+    "busy": null,
+    "latitude": "-36.8917840",
+    "longitude": "174.7364710",
+    "amenities": [
+      "Appointment Only",
+      "Female Doctor",
+      "GP Services",
+      "Accessible"
+    ],
+    "about": [
+      "Local Doctors Sandringham is a well-known and respected Central Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. We enjoy providing care to many Sri Lankan, Indian, Chinese, Muslim and M\u0101ori families, who express great trust in our doctors. Members of our team speak Hindi, Chinese, Arabic and Sri Lankan.We are open Monday to Friday for appointments from 8am\u20135pm.You can find us on Sandringham Road in Central Auckland, near major roads and public transport.Private pharmacy and physiotherapy services are available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/seddon-medical-centre/",
+    "name": "Seddon Medical Centre GP",
+    "address": "13A Hall St, Pukekohe, Auckland 2120",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 237 0055",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=13A+Hall+St%2c+Pukekohe%2c+Auckland+2120",
+    "busy": 0,
+    "latitude": "-37.19936567537579",
+    "longitude": "174.90594137022399",
+    "amenities": [],
+    "about": [
+      "Seddon Medical Centre in Pukekohe is a South Auckland GP clinic and part of the Local Doctors/White Cross network. Seddon Medical have a limited number of appointments available for patients who are enrolled with Local Doctors or White Cross, subject to availability, and subject to payment of the Seddon Medical consultation fee on arrival.",
+      "To book an appointment and confirm the consultation fee applicable, please call the clinic directly on 09 237 0055. Seddon Medical is open Monday to Friday from 8:30am\u20135pm, by appointment only. For more information visitSeddon Medical Centre - GP \u2022 Healthpoint",
+      ""
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/stoddard-road/",
+    "name": "Stoddard Road GP",
+    "address": "20 Stoddard Road, Mt Roskill",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 815 0033",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=20+Stoddard+Road%2c+Mt+Roskill",
+    "busy": null,
+    "latitude": "-36.9075571",
+    "longitude": "174.7340850",
+    "amenities": [
+      "Appointment Only",
+      "Accessible",
+      "Dental",
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Pharmacy",
+      "Physio"
+    ],
+    "about": [
+      "Local Doctors Stoddard Road is a Central Auckland medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau by appointment.Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak English, Tamil, Sinhalese, Punjabi, Hindi and Mandarin.It\u2019s easy and convenient to see us, by appointment. We are open Monday to Friday from 8am\u20135.00pm. You can find us on Stoddard Rd, close to major roads and public transport. Parking is available.",
+      "Please note that our standard appointment time is up to 15 minutes, to allow time for clinical notes and referrals to be completed. If you have more to discuss, you can request an extended appointment at an additional cost. In most cases, payment is required on arrival, before your consultation.Private dental, pharmacy, and physiotherapy services are also available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/sylvia-park/",
+    "name": "Sylvia Park GP",
+    "address": "3 Te Kehu Way, Sylvia Park\nMt Wellington, 1060",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 573 1265",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3+Te+Kehu+Way%2c+Sylvia+Park%0aMt+Wellington%2c+1060",
+    "busy": 0,
+    "latitude": "-36.9124751",
+    "longitude": "174.8410771",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Accessible",
+      "Open Weekends",
+      "Walk In"
+    ],
+    "about": [
+      "Local Doctors Sylvia Park is a Mt Wellington medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau.Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.Our ethnically diverse team is warm, friendly and ready to help. Members of our team speak te reo M\u0101ori, English, Hindi, Fiji Hindi, Punjabi and Gujarati.It\u2019s easy and convenient to see us \u2013 just walk in. We are open Monday to Friday from 8am\u20135pm. You can find us at 3 Te Kehu Way, Sylvia Park, near the motorway and public transport.Minor surgery can be performed at the clinic, by appointment, if you havemoles, skin cancers, lumps or cyststhat need to be removed, ingrown toenails or corns, varicose or spider veins or have requested. Contact the clinic to learn more.",
+      "Please note that our standard appointment time is up to 15 minutes, to allow time for clinical notes and referrals to be completed. If you have more to discuss, you can request an extended appointment at an additional cost. In most cases, payment is required on arrival, before your consultation."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/takanini/",
+    "name": "Takanini GP",
+    "address": "30 Walters Road, Takanini",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 274 7823",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=30+Walters+Road%2c+Takanini",
+    "busy": 0,
+    "latitude": "-37.0485930",
+    "longitude": "174.9319878",
+    "amenities": [
+      "Female Doctor",
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Open Weekends",
+      "Pharmacy",
+      "Dental"
+    ],
+    "about": [
+      "Local Doctors Takanini Medical Centre is a Takanini medical clinic providing high-quality, low-cost healthcare for you and your wh\u0101nau by appointment. Our ethnically diverse team is warm, friendly and ready to help.Our GPs and nurses offer the full range of general practice services to assist you with physical and mental health problems. The clinic is ACC accredited to help you bounce back from injuries caused by an accident.We\u2019re also skilled at treating and managing long-term health issues such as depression, asthma and diabetes. Local Doctors will help keep you up-to-date with screenings, immunisations and more, so you stay well.Our GPs can also refer you to other health services, locally, regionally and nationally when needed.It\u2019s easy and convenient to see us, by appointment. We are open Monday to Friday from 8.30am\u20135pm.You can find us on Walters Rd in a popular new shopping centre near major roads and public transport. Parking is available.Dental and pharmacy services are available on site, so you can easily get additional treatment if you need it."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:30am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  },
+  {
+    "url": "/clinics/northmed-gp/",
+    "name": "White Cross Northmed GP",
+    "address": "3 Akoranga Drive, Northcote",
+    "open_status": "Closed",
+    "closing_time": "",
+    "phone": "09 486 3248",
+    "directions": "https://www.google.com/maps/dir/?api=1&destination=3+Akoranga+Drive%2c+Northcote",
+    "busy": null,
+    "latitude": "-36.7934147",
+    "longitude": "174.7483971",
+    "amenities": [
+      "GP Services",
+      "Parking",
+      "Appointment",
+      "Accessible",
+      "Dental",
+      "Pharmacy",
+      "Physio",
+      "X-ray"
+    ],
+    "about": [
+      "White Cross Northmed is the medical clinic near you providing high-quality, low-cost family doctor services for you and your wh\u0101nau.",
+      "Our doctors and nurses can help you with semi-urgent care treatments, minor injuries, long-term health issues, such as asthma and diabetes, and help you recover from coughs, colds, and other illnesses.",
+      "You can also stay up to date on screenings, immunisations and more; once we have on-site our private x-ray, dental, pharmacy, and physiotherapy services, even a Cafe! If necessary, our doctors can also refer you to other health services, locally, regionally and nationally.",
+      "Led by the well-respected Dr Aubai Said, our ethnically diverse team is warm, friendly and ready to help, which means our team members may speak more than one language.",
+      "As part of our growth, we have recently merged clinics with the local Glenfield Doctors on Chartwell. After 20 years of serving the community, we welcome Dr Jon Wilcox and his team to join our strong and dedicated group of doctors, nurses, and receptionists as part of this journey.",
+      "We are open Monday to Friday, from 8am\u20135.30pm. Please contact the clinic to book an appointment.",
+      "You can find us in Northcote on Auckland\u2019s North Shore, near the motorway, with easy access to public transport. Parking is available."
+    ],
+    "hours": {
+      "Monday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Tuesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Wednesday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Thursday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Friday": {
+        "opening": "8:00am",
+        "closing": "5:00pm"
+      },
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    }
+  }
+]
