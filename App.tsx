@@ -17,7 +17,7 @@ export default function App() {
       <StatusBar/>
       <NavigationContainer>
         <Stack.Navigator
-          initialRouteName="Map"
+          initialRouteName="Splash"
           screenOptions={{ headerShown: false }}> 
           <Stack.Screen name="Splash" component={Splash}  />
           <Stack.Screen name="Map" component={Map}  />

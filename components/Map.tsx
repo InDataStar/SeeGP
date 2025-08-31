@@ -320,28 +320,13 @@ const Map = () => {
             }}>
             <Image
               style={styles.customMarker}
-              source={require('../assets/seeGP3.png')}
+              source={require('../assets/SeeGP2.png')}
             />
           </Marker>
         ))}
       </MapView>
-
-      {/* Container for Search Bar + Filter Button */}
-      <View style={styles.topRightContainer}>
-        {/**
-        <TextInput
-          style={styles.searchInput}
-          placeholder="Enter your address"
-          value={searchAddress}
-          onChangeText={setSearchAddress}
-          returnKeyType="search"
-          onSubmitEditing={() => {
-            // TODO: Add address search/geocoding here
-            console.log('Searching for:', searchAddress);
-          }}
-          clearButtonMode="while-editing"
-        /> */}
-
+ 
+      <View style={styles.topRightContainer}>  
         <TouchableOpacity
           style={[
             styles.menuButton,

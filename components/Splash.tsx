@@ -2,66 +2,80 @@ import {
   Text,
   SafeAreaView,
   StyleSheet,
-  StatusBar,
   View,
-  Animated,
-  Image
+  Image,
+  TouchableOpacity
 } from 'react-native';
-import { useEffect, useCallback, useState } from 'react';
 import { useNavigation } from '@react-navigation/native';
-import { LinearGradient } from 'expo-linear-gradient';
-import FontAwesome from '@expo/vector-icons/FontAwesome';
-import Ionicons from '@expo/vector-icons/Ionicons';
 
-// ];
-//heart-outline, medkit,heart-outline
-const Splash = () => {
+const WelcomeScreen = () => {
   const navigation = useNavigation();
 
-  const goToMain = useCallback(() => {
-    navigation.navigate('Map');
-  }, [navigation]);
-
-  useEffect(() => {
-    // console.log('Splash');
-    const timeout = setTimeout(goToMain, 3000); // 2 seconds
-
-    return () => clearTimeout(timeout); // Cleanup if unmounted early
-  }, [goToMain]);
+  const handleGetStarted = () => {
+    navigation.navigate('Map'); // Adjust to your route name
+  };
 
   return (
-    <View style={styles.container}>
-      <Image style={styles.splashImageContainer} source={require('../assets/seeGP3.png')}/> 
-      <Text style={styles.titleText}>SeeGP</Text>
-    </View>
+    <SafeAreaView style={styles.container}>
+      <Image
+        style={styles.logo}
+        source={require('../assets/SeeGPDoctor.png')}
+      />
+      <Text style={styles.title}>Welcome to SeeGP</Text>
+      <Text style={styles.subtitle}>
+        Quickly find available GPs near you – no waiting, no guesswork.
+      </Text>
+
+      <TouchableOpacity style={styles.button} onPress={handleGetStarted}>
+        <Text style={styles.buttonText}>Get Started</Text>
+      </TouchableOpacity>
+    </SafeAreaView>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: 'white',
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'white',
-    flexDirection: 'column',
+    paddingHorizontal: 24,
   },
-  titleText: {
-    fontSize: 30,
+  logo: {
+    width: 130,
+    height: 130,
+    borderRadius: 65,
+    borderWidth: 2.5,
+    borderColor: '#48e5c2',
+    marginBottom: 20,
+    resizeMode: 'stretch',
+  },
+  title: {
+    fontSize: 28,
     fontFamily: 'monospace',
     fontWeight: 'bold',
     color: '#48e5c2',
+    marginBottom: 10,
   },
-  splashImageContainer: {
-    width: 150,
-    height: 150,
-    borderRadius: 75,
-    alignItems: 'center',
-    justifyContent: 'center', 
-    backgroundColor:'white',
-    borderColor: '#48e5c2',
-    borderWidth:5,
-    resizeMode: 'stretch',
-    marginBottom:5
+  subtitle: {
+    fontSize: 16,
+    fontFamily: 'monospace',
+    textAlign: 'center',
+    color: '#333',
+    marginBottom: 40,
+  },
+  button: {
+    backgroundColor: '#48e5c2',
+    paddingVertical: 12,
+    paddingHorizontal: 32,
+    borderRadius: 30,
+  },
+  buttonText: {
+    fontSize: 16,
+    fontFamily: 'monospace',
+    fontWeight: 'bold',
+    color: 'white',
   },
 });
-export default Splash;
+
+export default WelcomeScreen;

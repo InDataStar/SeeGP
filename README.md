@@ -1,4 +1,8 @@
-# Sample Snack app
+# SeeGP
+
+SeeGP is a lightweight iOS app that allows your preferences and needs to be met when finding a GP. 
+
+Whether you are looking for a specific doctor or one who is open 24 hours a day  SeeGP provides a simple to use map  with filtered locations based on your preferences.
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 

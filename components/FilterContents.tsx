@@ -21,33 +21,29 @@ type contentsType = {
   onSelect: (filterData: Record<string, string[]>) => void;
 };
 
-type mainContentsType = {
-  setOption: (newFilterBy: FilterBy) => void;
-  filters: Record<string, string[]>;
-  onSelect: (filterData: Record<string, string[]>) => void;
-};
-
 const MainContents: React.FC<mainContentsType> = ({
   setOption,
   filters,
   onSelect,
+  clearFilters,
 }) => {
   const hasFilter = (key: string) => filters[key]?.length > 0;
 
+  const anyFiltersApplied = Object.values(filters).some(arr => arr.length > 0);
+
   const toggleBusy = () => {
     if (filters.busy?.length > 0) {
-      onSelect({ busy: [] }); // remove busy filter
+      onSelect({ busy: [] });
     } else {
-      onSelect({ busy: ['4'] }); // apply busy filter
+      onSelect({ busy: ['4'] });
     }
   };
 
-
   const toggleIsOpenNow = () => {
-    if (filters.isOpenNow?.length > 0) {
-      onSelect({ openNow: [] }); // remove busy filter
+    if (filters.openNow?.length > 0) {
+      onSelect({ openNow: [] });
     } else {
-      onSelect({ openNow: ['true'] }); // apply busy filter
+      onSelect({ openNow: ['true'] });
     }
   };
 
@@ -55,26 +51,23 @@ const MainContents: React.FC<mainContentsType> = ({
     <View style={styles.contentsContainer}>
       <TouchableOpacity style={styles.buttonRow} onPress={toggleBusy}>
         <Ionicons
-          name={
-            filters.busy?.length > 0
-              ? 'checkmark-circle'
-              : 'ban-outline'
-          }
+          name={filters.busy?.length > 0 ? 'checkmark-circle' : 'ban-outline'}
           size={22}
           color={filters.busy?.length > 0 ? '#28a745' : '#48e5c2'}
           style={styles.buttonIcon}
         />
         <Text style={styles.buttonText}>Hide Busy GPs</Text>
       </TouchableOpacity>
-      
+
       <TouchableOpacity style={styles.buttonRow} onPress={toggleIsOpenNow}>
         <Ionicons
-          name={filters.openNow?.length > 0 ? 'checkmark-circle' : 'time-outline'}
+          name={
+            filters.openNow?.length > 0 ? 'checkmark-circle' : 'time-outline'
+          }
           size={22}
           color={filters.openNow?.length > 0 ? '#28a745' : '#48e5c2'}
           style={styles.buttonIcon}
         />
-
         <Text style={styles.buttonText}>Is Open</Text>
       </TouchableOpacity>
 
@@ -95,24 +88,6 @@ const MainContents: React.FC<mainContentsType> = ({
         )}
       </TouchableOpacity>
 
-  {/**
-      <TouchableOpacity
-        style={styles.buttonRow}
-        onPress={() => setOption(FilterBy.Hours)}>
-        <Ionicons
-          name="time-outline"
-          color="#48e5c2"
-          size={22}
-          style={styles.buttonIcon}
-        />
-        <Text style={styles.buttonText}>Hours</Text>
-        {hasFilter('hours') && (
-          <View style={styles.badge}>
-            <Text style={styles.badgeText}>Applied</Text>
-          </View>
-        )}
-      </TouchableOpacity> */}
-
       <TouchableOpacity
         style={styles.buttonRow}
         onPress={() => setOption(FilterBy.Distance)}>
@@ -129,9 +104,24 @@ const MainContents: React.FC<mainContentsType> = ({
           </View>
         )}
       </TouchableOpacity>
+
+      {anyFiltersApplied && (
+        <TouchableOpacity
+          style={styles.buttonRow}
+          onPress={clearFilters}>
+          <Ionicons
+            name="trash-outline"
+            size={22}
+            color="#48e5c2"
+            style={styles.buttonIcon}
+          />
+          <Text style={styles.buttonText}>Reset Filters</Text>
+        </TouchableOpacity>
+      )}
     </View>
   );
 };
+
 
 const AmenityContents: React.FC<contentsType> = ({ goBack, onSelect }) => {
   const [selectedFeatures, setSelectedFeatures] = useState<string[]>([]);
@@ -282,6 +272,7 @@ const FilterContents: React.FC<FilterContentsProps> = ({
           <MainContents
             setOption={setFilterByOption}
             filters={filters}
+            clearFilters={clearFilters}
             onSelect={onSelectFilter}
           />
         );
@@ -313,9 +304,6 @@ const FilterContents: React.FC<FilterContentsProps> = ({
             ? 'Select Hours'
             : 'Select Distance'}
         </Text>
-        <TouchableOpacity onPress={clearFilters}>
-          <Ionicons name="trash-outline" size={22} color="gray" />
-        </TouchableOpacity>
       </View>
       {renderFilterBy()}
     </View>

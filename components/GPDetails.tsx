@@ -35,6 +35,8 @@ const isClinicOpenNow = (hours: Hours): boolean => {
 
   if (!todayHours) return false;
 
+if(todayHours !== "Closed")
+  {
   const openingStr = todayHours.opening.trim().toLowerCase();
   const closingStr = todayHours.closing.trim().toLowerCase();
 
@@ -50,8 +52,10 @@ const isClinicOpenNow = (hours: Hours): boolean => {
   const currentDate = now.toDateString();
   const openingTime = new Date(`${currentDate} ${todayHours.opening}`);
   const closingTime = new Date(`${currentDate} ${todayHours.closing}`);
-
+  
   return now >= openingTime && now <= closingTime;
+  }
+  return false;
 };
 
 type OptionProps = {
